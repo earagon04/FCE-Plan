@@ -33,7 +33,7 @@ const App = () => {
         resetErrorBoundary();
       }}
       onReset={() => {
-        localStorage.setItem("fiubaplan", JSON.stringify({}));
+        localStorage.setItem("fceplan", JSON.stringify({}));
       }}
     >
       <DataProvider>

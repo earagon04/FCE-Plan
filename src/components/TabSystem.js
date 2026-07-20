@@ -39,7 +39,7 @@ const TabSystem = (props) => {
     addTab,
     readOnly,
     setReadOnly,
-    horariosSIU,
+    horariosOferta,
     errorPermalink,
     setErrorPermalink,
     events,
@@ -196,27 +196,27 @@ const TabSystem = (props) => {
             Exportar
           </Button>
         )}
-        {horariosSIU && (
+        {horariosOferta && (
           <Box>
             <Popover placement="bottom" trigger="hover">
               <PopoverTrigger>
                 <Text textAlign="right">
-                  <strong>Usando horarios del SIU</strong>
+                  <strong>Usando oferta FCE</strong>
                   <br />
-                  {horariosSIU.periodo}
+                  {horariosOferta.periodo}
                 </Text>
               </PopoverTrigger>
               <PopoverContent borderColor="primary.500" mr={2}>
                 <PopoverArrow bg="primary.500" />
                 <PopoverBody>
-                  Acordate que el SIU también puede actualizar sus horarios sin
-                  aviso previo. Si estás por inscribirte a materias, es
-                  recomendable que re-cargues los horarios.
+                  La oferta de cursos puede actualizarse durante el
+                  cuatrimestre. Si estás por inscribirte, es recomendable que
+                  re-cargues los horarios.
                 </PopoverBody>
                 <PopoverFooter fontSize="sm">
                   Horarios cargados el{" "}
                   <strong>
-                    {new Date(horariosSIU.timestamp).toLocaleString()}
+                    {new Date(horariosOferta.timestamp).toLocaleString()}
                   </strong>
                 </PopoverFooter>
               </PopoverContent>

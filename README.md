@@ -1,19 +1,26 @@
-# [FIUBA-Plan](https://fede.dm/FIUBA-Plan/)
+# [FCE Plan](https://earagon04.github.io/FCE-Plan/)
 
-Organizador de horarios de la Facultad de Ingenieria
+Organizador de horarios de la Facultad de Ciencias Económicas (UBA).
+
+Fork de [FIUBA-Plan](https://fede.dm/FIUBA-Plan/), adaptado a la oferta de cursos de FCE (`mi.econ.uba.ar/Oferta/`).
+
+Deploy automático a GitHub Pages en cada push a `main`.
 
 ---
 
-![](public/fplan.png)
-
-Este proyecto apunta a una manera más facil de visualizar los horarios de cursada de la FIUBA. La idea es que no dependa de ningun servicio externo para conseguir los horarios cada cuatrimestre (porque no existe ninguno confiable que sea actualizado año a año), y los horarios sean cargados manualmente por el usuario que los puede obtener de su SIU (incluso, en una de esas funciona para SIUs de otras facultades de la UBA).
+La app no depende de un backend: cada usuario pega la oferta del cuatrimestre (CTRL+A / CTRL+C / CTRL+V) y arma combinaciones de materias en un calendario semanal.
 
 ## Desarrollo
 
-Para agregar un feature o fixear un issue hay que clonar el repositorio, instalar las dependencias con `npm install` y después correr la aplicación con `npm start`. En `localhost:3000/` va a estar corriendo la aplicación constantemente, y toda modificación que se haga al código se va a ver reflejada en la página.
+```bash
+npm install
+npm start
+```
 
-Con `npm test` se pueden correr los tests del parser del SIU, para agregar tests de distintos SIUs podés agregar en `siu-raw` el texto de tu SIU, y en `siu-json` el objeto que da el parser luego de procesar el texto del SIU que pegas en el cuadro de texto (en la consola de desarrollo se imprime).
+La app corre en `localhost:3000/`.
 
-Una vez terminados los cambios, con solo hacer un PR basta (porque la aplicación se compila automáticamente con cada push a master).
+```bash
+npm test
+```
 
-Si tenés algún problema con el parser podés armar un issue con lo que intentaste pegar en el cuadro de texto.
+Corre los tests del parser FCE (`tests/fceparser.test.js`) usando el fixture en `tests/fce-raw/`.

@@ -44,12 +44,12 @@ const generateICSContent = (events) => {
   
   let content = "BEGIN:VCALENDAR\r\n";
   content += "VERSION:2.0\r\n";
-  content += "PRODID:-//FIUBA-Plan//ES\r\n";
+  content += "PRODID:-//FCE-Plan//ES\r\n";
   content += "CALSCALE:GREGORIAN\r\n";
   content += "METHOD:PUBLISH\r\n";
   
   events.forEach((event, index) => {
-    const uid = `fiuba-plan-${baseTimestamp}-${index}@fiuba-plan.local`;
+    const uid = `fce-plan-${baseTimestamp}-${index}@fce-plan.local`;
     const startStr = formatICSDate(event.start);
     const endStr = formatICSDate(event.end);
     
@@ -254,7 +254,7 @@ const ExportCalendarModal = ({ isOpen, onClose }) => {
       const link = document.createElement("a");
       link.href = url;
       const tabName = tabs.find((t) => t.id === activeTabId)?.title || `Plan #${activeTabId + 1}`;
-      link.download = `FIUBA-Plan-${tabName.replace(/[^a-z0-9]/gi, "_")}.ics`;
+      link.download = `FCE-Plan-${tabName.replace(/[^a-z0-9]/gi, "_")}.ics`;
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);

@@ -1,4 +1,4 @@
-import { ChatIcon, ExternalLinkIcon } from "@chakra-ui/icons";
+import { ChatIcon } from "@chakra-ui/icons";
 import {
   Alert,
   AlertDescription,
@@ -8,7 +8,6 @@ import {
   DarkMode,
   Flex,
   IconButton,
-  Link,
   Tag,
   TagLabel,
   TagRightIcon,
@@ -21,7 +20,7 @@ import React from "react";
 const submitBug = async (bug) => {
   if (!bug) return;
   const formData = new FormData();
-  formData.append(`entry.108884877`, "FIUBA-PLAN");
+  formData.append(`entry.108884877`, "FCE-PLAN");
   formData.append(`entry.817568535`, bug || "");
   fetch(
     `https://docs.google.com/forms/d/1Mr4-4qWqZKaobjG3GI30aPvC5qlMsd6Eib3YGUbLd2k/formResponse`,
@@ -32,7 +31,6 @@ const submitBug = async (bug) => {
   );
 };
 
-// Toast para reportar bugs
 const Sugerencias = ({ onClose }) => {
   const bugToast = React.useRef();
   const toast = useToast();
@@ -84,9 +82,9 @@ const Sugerencias = ({ onClose }) => {
                       Si ves algo que te gustó, o tenés alguna idea, también!
                     </Text>
                     <Text my={2}>
-                      Si el parseo del SIU no esta funcionando como esperabas,
-                      describime el problema y pega el copypaste que usaste acá
-                      tambien.
+                      Si el parseo de la oferta no está funcionando como
+                      esperabas, describí el problema y pegá el copypaste que
+                      usaste acá también.
                     </Text>
                     <Text>
                       Estas sugerencias son *anónimas*. Si querés que te
@@ -129,30 +127,7 @@ const Sugerencias = ({ onClose }) => {
                       </Flex>
                     </form>
                     <Text fontSize="sm" mt={2}>
-                      ¿Usás Github? Me ayudás mucho más levantando un issue{" "}
-                      <Link
-                        isExternal
-                        _hover={{
-                          _light: {
-                            color: "primary.500",
-                          },
-                          _dark: {
-                            color: "primary.400",
-                          },
-                        }}
-                        href="https://github.com/FdelMazo/FIUBA-Map/issues/new"
-                      >
-                        directamente{" "}
-                        <ExternalLinkIcon
-                          _light={{
-                            color: "primary.500",
-                          }}
-                          _dark={{
-                            color: "primary.400",
-                          }}
-                          mx="2px"
-                        />
-                      </Link>
+                      Gracias por ayudar a mejorar FCE Plan.
                     </Text>
                   </AlertDescription>
                 </Box>

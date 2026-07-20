@@ -14,6 +14,8 @@ import {
   List,
   Text,
   Tooltip,
+  Wrap,
+  WrapItem,
 } from "@chakra-ui/react";
 import { useSelect } from "downshift";
 import React from "react";
@@ -23,6 +25,7 @@ import { cursoToDates, stateReducer } from "../utils";
 import ConfigCurso from "./ConfigCurso";
 
 const INICIALES_SEMANA = ["D", "L", "M", "X", "J", "V", "S"];
+const DIA_CODES = ["", "Lu", "Ma", "Mi", "Ju", "Vi", "Sa"];
 
 const SelectCurso = ({ codigo }) => {
   const {
@@ -93,6 +96,27 @@ const SelectCurso = ({ codigo }) => {
     [items, events],
   );
 
+  const cursoTooltip = (item) => {
+    const dias = item.clases
+      .map((c) => {
+        const code = DIA_CODES[c.dia] || "?";
+        return c.virtual ? `${code} (V)` : code;
+      })
+      .join(" · ");
+    return (
+      <>
+        {materia.area && <Text>Área: {materia.area}</Text>}
+        {item.catedra && <Text>Cát: {item.catedra}</Text>}
+        <Text>
+          {item.sede} · Mod. {item.modalidad}
+          {item.ia ? " · IA" : ""}
+        </Text>
+        <Text>{dias}</Text>
+        {(item.obs || materia.obs) && <Text>{item.obs || materia.obs}</Text>}
+      </>
+    );
+  };
+
   return (
     <>
       <Flex direction="row" justify="flex-end" alignItems="center">
@@ -150,6 +174,7 @@ const SelectCurso = ({ codigo }) => {
           >
             <Text fontSize="xs" isTruncated>
               {materia.nombre}
+              {materia.area ? ` · ${materia.area}` : ""}
             </Text>
           </Button>
         </Box>
@@ -203,7 +228,9 @@ const SelectCurso = ({ codigo }) => {
                     <Text>Este curso se solapa</Text>
                     <Text>con otros cursos</Text>
                   </>
-                ) : undefined
+                ) : (
+                  cursoTooltip(item)
+                )
               }
               key={item.codigo}
             >
@@ -220,6 +247,7 @@ const SelectCurso = ({ codigo }) => {
                 }}
                 key={item.codigo}
                 position="relative"
+                pb={5}
               >
                 <li
                   {...getItemProps({
@@ -229,19 +257,50 @@ const SelectCurso = ({ codigo }) => {
                 >
                   {isActive && <CheckIcon mr={1} />}
                   {isItemBlocked && <WarningTwoIcon mr={1} />}
-                  {item.docentes}
-                  <Badge
-                    fontSize="x-small"
+                  <Text as="span" fontWeight="medium">
+                    #{item.nro || item.codigo.split("-")[1]}{" "}
+                    {item.docentes || "(sin docente)"}
+                  </Text>
+                  {item.catedra && (
+                    <Text fontSize="x-small" opacity={0.85} noOfLines={1}>
+                      {item.catedra}
+                    </Text>
+                  )}
+                  <Wrap
+                    spacing={1}
+                    mt={1}
                     position="absolute"
                     bottom="2px"
-                    right="0"
+                    left="8px"
+                    right="8px"
                   >
-                    {[
-                      ...new Set(
-                        item.clases.map((clase) => INICIALES_SEMANA[clase.dia]),
-                      ),
-                    ].join(" | ")}
-                  </Badge>
+                    <WrapItem>
+                      <Badge fontSize="x-small">{item.sede}</Badge>
+                    </WrapItem>
+                    <WrapItem>
+                      <Badge fontSize="x-small">Mod. {item.modalidad}</Badge>
+                    </WrapItem>
+                    {item.ia && (
+                      <WrapItem>
+                        <Badge fontSize="x-small" colorScheme="purple">
+                          IA
+                        </Badge>
+                      </WrapItem>
+                    )}
+                    <WrapItem>
+                      <Badge fontSize="x-small">
+                        {[
+                          ...new Set(
+                            item.clases.map((clase) =>
+                              clase.virtual
+                                ? `${INICIALES_SEMANA[clase.dia]}V`
+                                : INICIALES_SEMANA[clase.dia],
+                            ),
+                          ),
+                        ].join(" | ")}
+                      </Badge>
+                    </WrapItem>
+                  </Wrap>
                 </li>
               </Box>
             </Tooltip>

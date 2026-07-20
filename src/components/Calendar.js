@@ -32,12 +32,22 @@ const MateriaEvent = (props) => {
       )}
 
       <Box>
-        <Text noOfLines={[1, 2, 3]} className="rbc-agenda-event-cell" mb={2}>
+        <Text noOfLines={[1, 2, 3]} className="rbc-agenda-event-cell" mb={1}>
           {props.event.title}
         </Text>
         <Text noOfLines={[1, 3, 5]} className="rbc-agenda-event-cell-sub">
           {props.event.subtitle}
         </Text>
+        {props.event.virtual && (
+          <Text
+            fontSize="x-small"
+            fontWeight="bold"
+            className="rbc-agenda-event-cell-sub"
+            mt={1}
+          >
+            Virtual
+          </Text>
+        )}
       </Box>
     </>
   );
@@ -52,13 +62,23 @@ const MateriaEventAgenda = (props) => {
           flexDirection: "row",
         }}
       >
-        <Text noOfLines={[1, 2, 3]} className="rbc-agenda-event-cell" mb={2}>
+        <Text noOfLines={[1, 2, 3]} className="rbc-agenda-event-cell" mb={1}>
           {props.event.title}
         </Text>
       </Box>
       <Text noOfLines={[1, 3, 5]} className="rbc-agenda-event-cell-sub">
         {props.event.subtitle}
       </Text>
+      {props.event.virtual && (
+        <Text
+          fontSize="x-small"
+          fontWeight="bold"
+          className="rbc-agenda-event-cell-sub"
+          mt={1}
+        >
+          Virtual
+        </Text>
+      )}
     </Box>
   );
 };
@@ -72,11 +92,11 @@ const MyCalendar = (props) => {
     (event) => {
       let color = event.color ?? (event.id ? getColor(event) : "inherit");
       const style = {
-        borderStyle: "solid",
+        borderStyle: event.virtual ? "dashed" : "solid",
         borderWidth: "1px 1px 1px 6px",
-        borderRightColor: "#d2adf4", //primary.300
-        borderBottomColor: "#d2adf4", //primary.300
-        borderTopColor: "#d2adf4", //primary.300
+        borderRightColor: "#d2adf4",
+        borderBottomColor: "#d2adf4",
+        borderTopColor: "#d2adf4",
         borderLeftColor: color,
         color: "#1f1f1f",
         cursor: "default",
@@ -99,8 +119,6 @@ const MyCalendar = (props) => {
 
       const eventFillStyle = isIgnored
         ? {
-            // Stripes diagonales con un fondo negro con 10% de opacidad.
-            // Es mejor tener un fondo negro que del propio color de la materia en las stripes para mantener la visibilidad en todos los colores.
             backgroundImage: `linear-gradient(${color}44, ${color}44), repeating-linear-gradient(45deg, #0000001A 0px, #0000001A 8px, transparent 8px, transparent 16px)`,
             backgroundColor: "#FFF",
           }
@@ -113,8 +131,16 @@ const MyCalendar = (props) => {
         borderRightColor: "#0000",
         borderBottomColor: "#0000",
         borderTopColor: "#0000",
-        ...eventFillStyle
+        ...eventFillStyle,
       };
+
+      // En vista semanal el borde izquierdo es el único visible: reforzar virtual
+      if (!useAgenda && event.virtual) {
+        calendarWeekStyle.borderLeftStyle = "dashed";
+        calendarWeekStyle.outline = `1px dashed ${color}`;
+        calendarWeekStyle.outlineOffset = "-2px";
+      }
+
       return {
         style: useAgenda
           ? { ...style, ...eventFillStyle }

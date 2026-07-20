@@ -20,19 +20,20 @@ import {
 import React from "react";
 import { DataContext } from "../DataContext";
 
-const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
+const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipOferta }) => {
   const toast = useToast();
   const [error, setError] = React.useState("");
-  const [siuData, setSiuData] = React.useState("");
+  const [ofertaData, setOfertaData] = React.useState("");
   const [periodosOptions, setPeriodosOptions] = React.useState([]);
   const [selectedPeriod, setSelectedPeriod] = React.useState(null);
-  const { applyHorariosSIU, getPeriodosSIU } = React.useContext(DataContext);
+  const { applyHorariosOferta, getPeriodosOferta } =
+    React.useContext(DataContext);
 
   const handleSuccessfulUpload = () => {
-    setSkipSIU(false);
+    setSkipOferta(false);
     onClose();
     toast({
-      title: "Horarios del SIU aplicados",
+      title: "Oferta de cursos aplicada",
       status: "success",
       duration: 2000,
       isClosable: true,
@@ -46,47 +47,42 @@ const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
       size="lg"
       onCloseComplete={() => {
         setError("");
-        setSiuData("");
+        setOfertaData("");
         setPeriodosOptions([]);
         setSelectedPeriod(null);
       }}
     >
       <ModalOverlay />
       <ModalContent borderWidth="2px" borderColor="primary.500">
-        <ModalHeader>Importar horarios del SIU</ModalHeader>
+        <ModalHeader>Importar oferta de cursos FCE</ModalHeader>
         <ModalCloseButton />
         <ModalBody>
           <Text mb={3}>
-            Lamentablemente, <strong>FIUBA</strong> ya no ofrece los horarios de
-            las materias públicamente, por lo que cada usuario tiene que importar manualmente
-            sus horarios desde el SIU.
+            Para armar tu horario necesitás importar la oferta del cuatrimestre
+            desde el sitio de la Facultad de Ciencias Económicas.
           </Text>
 
-          <Text mb={3}>
-            Para importar tu oferta horaria seguí estos pasos:
-          </Text>
+          <Text mb={3}>Seguí estos pasos:</Text>
           <OrderedList my={2}>
             <ListItem>
               Andá a{" "}
-              <Link
-                isExternal
-                href="https://guaraniautogestion.fi.uba.ar/g3w/oferta_comisiones"
-              >
+              <Link isExternal href="https://mi.econ.uba.ar/Oferta/">
                 <Code
                   _hover={{
                     bg: "primary.600",
                   }}
                 >
-                  Reportes &gt; Oferta de comisiones
+                  mi.econ.uba.ar/Oferta/
                 </Code>
-              </Link>
+              </Link>{" "}
+              y abrí la oferta del cuatrimestre actual
             </ListItem>
             <ListItem>
-              Ahí seleccioná todo el contenido de la página (<Kbd>CTRL</Kbd> +{" "}
+              Seleccioná todo el contenido de la página (<Kbd>CTRL</Kbd> +{" "}
               <Kbd>A</Kbd>)
             </ListItem>
             <ListItem>
-              Copia todo (<Kbd>CTRL</Kbd> + <Kbd>C</Kbd>)
+              Copiá todo (<Kbd>CTRL</Kbd> + <Kbd>C</Kbd>)
             </ListItem>
             <ListItem>
               Pegalo en el siguiente cuadro de texto (<Kbd>CTRL</Kbd> +{" "}
@@ -96,15 +92,15 @@ const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
           <Textarea
             my={1}
             size="sm"
-            name="siu"
-            onChange={(e) => setSiuData(e.target.value)}
-            value={siuData}
+            name="oferta"
+            onChange={(e) => setOfertaData(e.target.value)}
+            value={ofertaData}
           />
           {periodosOptions.length > 0 && (
             <Select
               borderColor="tomato"
               borderWidth={2}
-              placeholder="Elegir período lectivo"
+              placeholder="Elegir período"
               my={2}
               onChange={(e) => setSelectedPeriod(e.target.value)}
             >
@@ -124,9 +120,9 @@ const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
                 isDisabled={!selectedPeriod}
                 onClick={() => {
                   const periodo = periodosOptions.find(
-                    (p) => p.periodo === selectedPeriod
+                    (p) => p.periodo === selectedPeriod,
                   );
-                  applyHorariosSIU(periodo);
+                  applyHorariosOferta(periodo);
                   handleSuccessfulUpload();
                 }}
               >
@@ -136,14 +132,14 @@ const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
               <Button
                 flex={1}
                 colorScheme="primary"
-                isDisabled={!siuData}
+                isDisabled={!ofertaData}
                 onClick={() => {
                   try {
-                    const periodos = getPeriodosSIU(siuData);
+                    const periodos = getPeriodosOferta(ofertaData);
                     if (periodos.length > 1) {
                       setPeriodosOptions(periodos);
                     } else {
-                      applyHorariosSIU(periodos[0]);
+                      applyHorariosOferta(periodos[0]);
                       handleSuccessfulUpload();
                     }
                   } catch (e) {
@@ -172,12 +168,6 @@ const ManualUploadModal = ({ isOpen, onClose, onSkip, setSkipSIU }) => {
               {error}
             </Text>
           )}
-          <Text fontSize="sm" mt={2}>
-            Este feature es nuevo y experimental; si no funciona como esperás
-            hacemelo saber! Mandame un mensaje a{" "}
-            <Code fontSize="xs">fdelmazo at fi.uba.ar</Code> con el copy-paste
-            del SIU que intentaste importar.
-          </Text>
         </ModalBody>
       </ModalContent>
     </Modal>

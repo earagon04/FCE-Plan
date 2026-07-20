@@ -36,7 +36,8 @@ import SelectMateria from "./SelectMateria";
 import Sugerencias from "./Sugerencias";
 
 const MateriasDrawer = (props) => {
-  const { useAgenda, setUseAgenda, isOpen, onClose, skipSIU, onOpenModal } = props;
+  const { useAgenda, setUseAgenda, isOpen, onClose, skipOferta, onOpenModal } =
+    props;
   const {
     tabs,
     selectedMaterias,
@@ -45,9 +46,9 @@ const MateriasDrawer = (props) => {
     events,
     extraEvents,
     permalink,
-    horariosSIU,
+    horariosOferta,
     getters,
-    removeHorariosSIU,
+    removeHorariosOferta,
   } = React.useContext(DataContext);
   const permalinkToast = React.useRef();
   const drawerRef = React.useRef();
@@ -56,14 +57,14 @@ const MateriasDrawer = (props) => {
   const { onCopy } = useClipboard(permalink);
 
   const materiasToShow = React.useMemo(() => {
-    if (!horariosSIU) return [];
+    if (!horariosOferta) return [];
 
-    const codigos = horariosSIU.materias.map((m) => m.codigo);
+    const codigos = horariosOferta.materias.map((m) => m.codigo);
     const codigosUnicos = [...new Set(codigos)].sort();
     const materias = codigosUnicos.map(getters.getMateria);
 
     return materias;
-  }, [getters.getMateria, horariosSIU]);
+  }, [getters.getMateria, horariosOferta]);
 
   return (
     <LightMode>
@@ -80,7 +81,7 @@ const MateriasDrawer = (props) => {
           <DrawerCloseButton />
 
           <Box pt={14} px={4}>
-            {skipSIU ? (
+            {skipOferta ? (
               <Button
                 w="100%"
                 colorScheme="primary"
@@ -89,26 +90,26 @@ const MateriasDrawer = (props) => {
                   onOpenModal();
                 }}
               >
-                Cargar horarios del SIU
+                Cargar oferta de cursos
               </Button>
             ) : (
-              horariosSIU && (
+              horariosOferta && (
                 <Button
                   w="100%"
                   rightIcon={<DeleteIcon />}
                   colorScheme="red"
                   onClick={async () => {
-                    await removeHorariosSIU();
+                    await removeHorariosOferta();
                     onClose();
                   }}
                 >
-                  Dejar de usar horarios del SIU
+                  Dejar de usar la oferta cargada
                 </Button>
               )
             )}
           </Box>
 
-          {horariosSIU && (
+          {horariosOferta && (
             <Box px={6}>
               <SelectMateria
                 materiasToShow={materiasToShow}
@@ -210,31 +211,16 @@ const MateriasDrawer = (props) => {
                 </Link>
               </Tooltip>
 
-              <Tooltip label="FIUBA-Map" placement="top">
+              <Tooltip label="Oferta FCE" placement="top">
                 <Link
                   color="primary.600"
                   isExternal
-                  href="https://fede.dm/FIUBA-Map/"
+                  href="https://mi.econ.uba.ar/Oferta/"
                 >
-                  <Icon boxSize={4} ml={2} viewBox="0 0 448 512">
+                  <Icon boxSize={4} ml={2} viewBox="0 0 24 24">
                     <path
                       fill="currentColor"
-                      d="M384 320H256c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32zM192 32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v128c0 17.67 14.33 32 32 32h95.72l73.16 128.04C211.98 300.98 232.4 288 256 288h.28L192 175.51V128h224V64H192V32zM608 0H480c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V32c0-17.67-14.33-32-32-32z"
-                    />
-                  </Icon>
-                </Link>
-              </Tooltip>
-
-              <Tooltip label="FdelMazo/FIUBA-Plan" placement="top">
-                <Link
-                  color="primary.600"
-                  isExternal
-                  href="https://github.com/fdelmazo/FIUBA-Plan"
-                >
-                  <Icon boxSize={5} ml={2} viewBox="0 0 16 16">
-                    <path
-                      fill="currentColor"
-                      d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"
+                      d="M14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3m-2 16H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7z"
                     />
                   </Icon>
                 </Link>
@@ -259,7 +245,7 @@ const MateriasDrawer = (props) => {
                 <Link
                   color="primary.600"
                   isExternal
-                  href="https://www.fi.uba.ar/estudiantes/calendario-academico"
+                  href="https://www.economicas.uba.ar/"
                 >
                   <Icon boxSize={5} ml={2} viewBox="0 0 512 512">
                     <path

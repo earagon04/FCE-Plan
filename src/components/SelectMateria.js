@@ -12,6 +12,7 @@ import {
   InputGroup,
   InputRightElement,
   List,
+  Text,
   Tooltip,
   Portal,
 } from "@chakra-ui/react";
@@ -45,14 +46,22 @@ const SelectMateria = ({ materiasToShow, drawerRef }) => {
   );
 
   const inputItems = React.useMemo(() => {
-    return materiasToShow.filter(filterDays).filter(
-      (item) =>
-        item.nombre
-          .toLowerCase()
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, "")
-          .includes(search) || item.codigo.includes(search),
-    );
+    return materiasToShow
+      .filter(filterDays)
+      .filter(
+        (item) =>
+          item.nombre
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .includes(search) ||
+          item.codigo.includes(search) ||
+          (item.area || "")
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .includes(search),
+      );
   }, [filterDays, materiasToShow, search]);
 
   const {
@@ -166,7 +175,11 @@ const SelectMateria = ({ materiasToShow, drawerRef }) => {
       >
         {inputItems.length ? (
           inputItems
-            .sort((a, b) => a.codigo > b.codigo)
+            .sort((a, b) => {
+              const areaCmp = (a.area || "").localeCompare(b.area || "");
+              if (areaCmp !== 0) return areaCmp;
+              return a.codigo > b.codigo ? 1 : -1;
+            })
             .map((materia, index) => (
               <Box
                 borderRadius={5}
@@ -193,6 +206,12 @@ const SelectMateria = ({ materiasToShow, drawerRef }) => {
                     <ChevronRightIcon mr={2} />
                   )}
                   ({materia.codigo}) {materia.nombre}
+                  {materia.area ? (
+                    <Text as="span" fontSize="xs" opacity={0.7}>
+                      {" "}
+                      · {materia.area}
+                    </Text>
+                  ) : null}
                 </li>
               </Box>
             ))

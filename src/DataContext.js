@@ -3,8 +3,10 @@
 
 import React from "react";
 import { useImmer, useImmerReducer } from "use-immer";
-import { parseSIU } from "./siuparser";
+import { parseFCE } from "./fceparser";
 import { getColor, base64tojson, jsontobase64 } from "./utils";
+
+const STORAGE_KEY = "fceplan";
 
 // Si tengo un permalink, parseo su info y reseteo la URL
 let permalinksavedata = null;
@@ -18,16 +20,14 @@ if (window.location.hash) {
   history.pushState("", "", window.location.pathname + window.location.search);
 }
 
-// Si el usuario tiene una sesión de cuando la aplicación tenía horarios estaticos
-// en vez de importados del SIU (la key `cuatrimestre`), le limpiamos la data
 let json = null;
 try {
-  json = JSON.parse(window.localStorage.getItem("fiubaplan"));
+  json = JSON.parse(window.localStorage.getItem(STORAGE_KEY));
 } catch (e) {
   console.warn("Error al parsear el JSON del localStorage", e);
 } finally {
-  if (!json || json["cuatrimestre"]) {
-    window.localStorage.setItem("fiubaplan", JSON.stringify({}));
+  if (!json) {
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify({}));
   }
 }
 
@@ -40,27 +40,28 @@ export const DataProvider = ({ children }) => {
 };
 
 const Data = () => {
-  // Utilizamos errorPermalink para handlear si hubo un error procesando
-  // el permalink, y si lo hubo redireccionar a la home y mostrar un toast (en TabSystem.js)
-  // informando al usuario que hubo un error
-  const [errorPermalink, setErrorPermalink] = React.useState(permalinksavedata === "");
-  // ESTADO 0: el usuario cargo a manopla los horarios de su propio SIU, o decide no usarlos
-  const [horariosSIU, setHorariosSIU] = React.useState(initialHorariosSIU);
-  const [skipSIU, setSkipSIU] = React.useState(getFromStorage("skipSIU") || false);
+  const [errorPermalink, setErrorPermalink] = React.useState(
+    permalinksavedata === "",
+  );
+  const [horariosOferta, setHorariosOferta] = React.useState(
+    initialHorariosOferta,
+  );
+  const [skipOferta, setSkipOferta] = React.useState(
+    getFromStorage("skipOferta") || false,
+  );
 
-  // Getters que verifican contra el SIU del usuario
   const getters = React.useMemo(() => {
     const getMateria = (codigo) => {
-      return horariosSIU?.materias.find((m) => m.codigo === codigo);
+      return horariosOferta?.materias.find((m) => m.codigo === codigo);
     };
 
     const getCurso = (codigo) => {
-      return horariosSIU?.cursos.find((c) => c.codigo === codigo);
+      return horariosOferta?.cursos.find((c) => c.codigo === codigo);
     };
 
     const getCursosMateria = (codigoMateria) => {
-      const cursos = horariosSIU?.materias.find(
-        (m) => m.codigo === codigoMateria
+      const cursos = horariosOferta?.materias.find(
+        (m) => m.codigo === codigoMateria,
       ).cursos;
       return cursos?.map(getCurso) || [];
     };
@@ -68,16 +69,14 @@ const Data = () => {
     return {
       getMateria,
       getCurso,
-      getCursosMateria
+      getCursosMateria,
     };
-  }, [horariosSIU]);
+  }, [horariosOferta]);
 
-  // ESTADO 1: Las materias tickeadas por el usuario para verlas en el drawer
   const [selectedMaterias, setSelectedMaterias] = useImmer(() =>
-    initialSelectedMaterias()
+    initialSelectedMaterias(),
   );
 
-  // ESTADO 2: Las tabs y el nombre que el usuario les puso
   const [activeTabId, setActiveTabId] = React.useState(0);
 
   const tabsReducer = (draft, action) => {
@@ -96,10 +95,9 @@ const Data = () => {
   const [tabs, tabsDispatch] = useImmerReducer(
     tabsReducer,
     [{ id: 0 }],
-    initialTabs
+    initialTabs,
   );
 
-  // ESTADO 3, el mas importante: Todos los eventos que hay en cada tab
   const tabEventsReducer = (draft, action) => {
     // eslint-disable-next-line default-case
     switch (action.type) {
@@ -109,7 +107,7 @@ const Data = () => {
             draft[activeTabId].cursos.push(action.id);
           } else {
             draft[activeTabId].cursos = draft[activeTabId].cursos.filter(
-              (i) => i !== action.id
+              (i) => i !== action.id,
             );
           }
         } else {
@@ -117,7 +115,7 @@ const Data = () => {
             draft[activeTabId].extra.push(action.id);
           } else {
             draft[activeTabId].extra = draft[activeTabId].extra.filter(
-              (i) => i !== action.id
+              (i) => i !== action.id,
             );
           }
         }
@@ -132,22 +130,22 @@ const Data = () => {
         return Object.fromEntries(
           Object.entries(draft).map(([tabId, { cursos, extra }]) => [
             tabId,
-            { cursos, extra: extra.filter((i) => i !== action.id) }
-          ])
+            { cursos, extra: extra.filter((i) => i !== action.id) },
+          ]),
         );
       case "removeCursos":
         return Object.fromEntries(
           Object.entries(draft).map(([tabId, { cursos, extra }]) => [
             tabId,
-            { cursos: cursos.filter((i) => !action.ids.includes(i)), extra }
-          ])
+            { cursos: cursos.filter((i) => !action.ids.includes(i)), extra },
+          ]),
         );
       case "removeAllExtra":
         return Object.fromEntries(
           Object.entries(draft).map(([tabId, { cursos, _extra }]) => [
             tabId,
-            { cursos, extra: [] }
-          ])
+            { cursos, extra: [] },
+          ]),
         );
     }
   };
@@ -155,10 +153,9 @@ const Data = () => {
   const [tabEvents, tabEventsDispatch] = useImmerReducer(
     tabEventsReducer,
     { 0: { cursos: [], extra: [] } },
-    (defvalue) => initialTabEvents(defvalue)
+    (defvalue) => initialTabEvents(defvalue),
   );
 
-  // ESTADO 4: Los horarios extracurriculares que agrega el usuario, y el nombre que les puso
   const extraEventsReducer = (draft, action) => {
     // eslint-disable-next-line default-case
     switch (action.type) {
@@ -168,7 +165,7 @@ const Data = () => {
           start: action.event.start,
           end: action.event.end,
           title: action.event.title,
-          color: getColor({ id: action.event.id })
+          color: getColor({ id: action.event.id }),
         });
       case "rename":
         return void (draft.find((t) => t.id === action.id).title =
@@ -189,38 +186,36 @@ const Data = () => {
   const [extraEvents, extraEventsDispatch] = useImmerReducer(
     extraEventsReducer,
     [],
-    initialExtraEvents
+    initialExtraEvents,
   );
 
-  const getPeriodosSIU = (rawdata) => {
+  const getPeriodosOferta = (rawdata) => {
     let periodos;
     try {
-      periodos = parseSIU(rawdata);
+      periodos = parseFCE(rawdata);
       if (!periodos.length) {
-        throw new Error("No se encontraron horarios en el archivo");
+        throw new Error("No se encontraron horarios en el texto pegado");
       }
     } catch (e) {
       console.warn(e);
-      throw new Error("Error al parsear los horarios del SIU");
+      throw new Error("Error al parsear la oferta de cursos de FCE");
     }
     return periodos;
   };
 
-  const applyHorariosSIU = (periodo) => {
-    setHorariosSIU(periodo);
+  const applyHorariosOferta = (periodo) => {
+    setHorariosOferta(periodo);
   };
 
-  const removeHorariosSIU = async () => {
-    // Limpiamos todas las materias seleccionadas por el usuario
+  const removeHorariosOferta = async () => {
     selectedMaterias.forEach((codigo) => {
       toggleMateria(codigo);
     });
-    setHorariosSIU(null);
+    setHorariosOferta(null);
   };
 
-  // ESTADO 5: Colores configurados por curso (globales para todas las tabs).
   const [coloresCursos, setColoresCursos] = useImmer(() =>
-    initialCursoColors()
+    initialCursoColors(),
   );
 
   const setColorCurso = (codigoCurso, color) => {
@@ -229,9 +224,8 @@ const Data = () => {
     });
   };
 
-  // ESTADO 6: Cursos ignorados configurados por día y horario
   const [cursosIgnorados, setCursosIgnorados] = useImmer(() =>
-    initialCursosIgnorados()
+    initialCursosIgnorados(),
   );
 
   const formatHora = (hora) => {
@@ -259,53 +253,46 @@ const Data = () => {
     return !!cursosIgnorados[codigoCurso]?.[keyCursoIgnorado(dia, inicio, fin)];
   };
 
-  // El estado que se guarda y determina el permalink es el `savedata` del usuario
   const savedata = React.useMemo(() => {
     return {
       selectedMaterias,
       tabEvents,
       tabs,
       extraEvents,
-      horariosSIU,
-      skipSIU,
+      horariosOferta,
+      skipOferta,
       coloresCursos,
-      cursosIgnorados
+      cursosIgnorados,
     };
   }, [
     JSON.stringify(selectedMaterias),
     JSON.stringify(tabEvents),
     JSON.stringify(tabs),
     JSON.stringify(extraEvents),
-    JSON.stringify(horariosSIU),
-    JSON.stringify(skipSIU),
+    JSON.stringify(horariosOferta),
+    JSON.stringify(skipOferta),
     JSON.stringify(coloresCursos),
-    JSON.stringify(cursosIgnorados)
+    JSON.stringify(cursosIgnorados),
   ]);
 
-  // Si venimos de un permalink, estamos en una sesion de read - only hasta que el usuario quiera pisar los datos
   const [readOnly, setReadOnly] = React.useState(!!permalinksavedata);
 
   const permalink = React.useMemo(() => {
     const savedatab64 = jsontobase64(savedata);
-    return `https://fede.dm/FIUBA-Plan/#${savedatab64}`;
+    return `${window.location.origin}${window.location.pathname}#${savedatab64}`;
   }, [JSON.stringify(savedata)]);
 
   React.useEffect(() => {
     if (readOnly) return;
-    window.localStorage.setItem("fiubaplan", JSON.stringify(savedata));
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(savedata));
   }, [JSON.stringify(savedata), readOnly]);
 
-  // INTERFACES DE CADA ESTADO
-
-  // Tildar/destildar cursos y materias
   const toggleMateria = (codigo) => {
     if (selectedMaterias.includes(codigo)) {
-      // Si destildamos una materia, removemos todos sus eventos
       const ids = getters.getCursosMateria(codigo).map((c) => c.codigo);
       tabEventsDispatch({ type: "removeCursos", ids });
       setSelectedMaterias((draft) => draft.filter((i) => i !== codigo));
     } else {
-      // Si tildamos una materia, agregamos el primer curso
       toggleCurso(getters.getCursosMateria(codigo)[0].codigo);
       setSelectedMaterias((draft) => [...draft, codigo]);
     }
@@ -315,16 +302,13 @@ const Data = () => {
     tabEventsDispatch({ type: "select", id: codigo, tabId: activeTabId });
   };
 
-  // Agregar, eliminar, renombrar horarios extras
   const addExtra = ({ start, end }) => {
-    // We don't want simple clicks to trigger the creation of an event
-    // Limiting the time event to at least 60 minutes means the user dragged the mouse, instead of just clicking
     const minutes = Math.floor((end - start) / 1000 / 60);
     if (minutes < 60) return;
 
     const id = start.getTime() + end.getTime() + Math.random() * 100;
     const randomLetter = String.fromCharCode(
-      65 + Math.floor(id % 23) + Math.floor(id % 3)
+      65 + Math.floor(id % 23) + Math.floor(id % 3),
     );
     const title = `ACTIVIDAD ${randomLetter}`;
 
@@ -346,7 +330,7 @@ const Data = () => {
 
   const removeExtraFromTab = (id) => {
     const tabs = Object.values(tabEvents).filter((tab) =>
-      tab.extra.includes(id)
+      tab.extra.includes(id),
     );
     if (tabs.length === 1) {
       removeExtra(id);
@@ -359,7 +343,7 @@ const Data = () => {
     extraEventsDispatch({
       type: "rename",
       id: id,
-      title: str.trim() || "EXTRA"
+      title: str.trim() || "EXTRA",
     });
   };
 
@@ -372,7 +356,6 @@ const Data = () => {
     extraEventsDispatch({ type: "reset" });
   };
 
-  // Agregar, eliminar, renombrar tabs
   const limpiarTab = () => {
     tabEventsDispatch({ type: "resetTab", tabId: activeTabId });
   };
@@ -405,11 +388,9 @@ const Data = () => {
     } else {
       const index = tabs.map((t) => t.id).indexOf(id);
       selectTab(tabs[index > 0 ? index - 1 : index + 1].id);
-    };
+    }
   };
 
-  // Los eventos a mostrar en el calendario son todos los cursos seleccionados por el usuario
-  // y los horarios extracurriculares que esten presentes en la tab actual
   const events = React.useMemo(() => {
     const extraevents = tabEvents[activeTabId].extra.map((ev) => {
       const event = extraEvents.find((e) => e.id === ev);
@@ -425,7 +406,8 @@ const Data = () => {
         subtitle,
         tooltip,
         curso: null,
-        color: event.color ?? getColor({ id: event.id })
+        virtual: false,
+        color: event.color ?? getColor({ id: event.id }),
       };
     });
 
@@ -440,11 +422,34 @@ const Data = () => {
           const fin = new Date(2018, 0, clase.dia);
           const [finHora, finMinutos] = clase.fin.split(":");
           fin.setHours(finHora, finMinutos);
-          const title = `[${materia.codigo}] ${materia.nombre}`;
-          const subtitle = curso.docentes;
-          const tooltip = `[${materia.codigo}] ${materia.nombre}\n${curso.docentes}`;
 
-          const id = curso.clases + curso.codigo + curso.docentes;
+          const metaParts = [
+            curso.sede,
+            curso.modalidad ? `Mod. ${curso.modalidad}` : null,
+            clase.virtual ? "Virtual" : null,
+          ].filter(Boolean);
+
+          const title = `[${materia.codigo}] ${materia.nombre}`;
+          const subtitle = [curso.docentes, metaParts.join(" · ")]
+            .filter(Boolean)
+            .join("\n");
+          const tooltip = [
+            `[${materia.codigo}] ${materia.nombre}`,
+            curso.docentes || "(sin docente)",
+            curso.catedra ? `Cát: ${curso.catedra}` : null,
+            metaParts.join(" · "),
+            curso.ia ? "Con apoyo de IA" : null,
+            curso.obs || materia.obs || null,
+          ]
+            .filter(Boolean)
+            .join("\n");
+
+          const id =
+            curso.codigo +
+            clase.dia +
+            clase.inicio +
+            clase.fin +
+            (clase.virtual ? "V" : "P");
 
           return {
             start: inicio,
@@ -455,7 +460,10 @@ const Data = () => {
             tooltip,
             curso: curso.codigo,
             codigoMateria: materia.codigo,
-            color: coloresCursos[curso.codigo] ?? getColor({ id })
+            virtual: !!clase.virtual,
+            sede: curso.sede,
+            modalidad: curso.modalidad,
+            color: coloresCursos[curso.codigo] ?? getColor({ id }),
           };
         });
       });
@@ -466,7 +474,7 @@ const Data = () => {
     activeTabId,
     extraEvents,
     JSON.stringify(tabEvents),
-    JSON.stringify(coloresCursos)
+    JSON.stringify(coloresCursos),
   ]);
 
   return {
@@ -492,29 +500,28 @@ const Data = () => {
     renameTab,
     removeTab,
     events,
-    horariosSIU,
-    applyHorariosSIU,
-    removeHorariosSIU,
+    horariosOferta,
+    applyHorariosOferta,
+    removeHorariosOferta,
     getters,
-    getPeriodosSIU,
+    getPeriodosOferta,
     errorPermalink,
     setErrorPermalink,
-    skipSIU,
-    setSkipSIU,
+    skipOferta,
+    setSkipOferta,
     coloresCursos,
     setColorCurso,
     cursosIgnorados,
     toggleIgnorarCurso,
-    isCursoIgnorado
+    isCursoIgnorado,
   };
 };
 
 const getFromStorage = (key) => {
-  const json = JSON.parse(window.localStorage.getItem("fiubaplan"));
+  const json = JSON.parse(window.localStorage.getItem(STORAGE_KEY));
   return json?.[key];
 };
 
-// STATE INITIALIZERS: le pasamos una funcion a useState/useReducer/useImmer/useImmerReducer para evitar que se ejecuten en cada render
 const initialSelectedMaterias = () => {
   return (
     permalinksavedata?.selectedMaterias ||
@@ -533,8 +540,8 @@ const initialTabEvents = (defvalue) => {
   return Object.fromEntries(
     Object.entries(tabEvents).map(([tabid, { cursos, extra }]) => [
       tabid,
-      { cursos: cursos, extra }
-    ])
+      { cursos: cursos, extra },
+    ]),
   );
 };
 
@@ -542,7 +549,7 @@ const initialExtraEvents = (defvalue) => {
   const coerceExtraEvent = (e) => ({
     ...e,
     start: new Date(e.start),
-    end: new Date(e.end)
+    end: new Date(e.end),
   });
   return (
     permalinksavedata?.extraEvents?.map(coerceExtraEvent) ||
@@ -551,9 +558,11 @@ const initialExtraEvents = (defvalue) => {
   );
 };
 
-const initialHorariosSIU = () => {
+const initialHorariosOferta = () => {
   return (
-    permalinksavedata?.horariosSIU || getFromStorage("horariosSIU") || null
+    permalinksavedata?.horariosOferta ||
+    getFromStorage("horariosOferta") ||
+    null
   );
 };
 
