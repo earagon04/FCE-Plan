@@ -1,0 +1,2113 @@
+
+Oferta de Cursos 2do Cuatrimestre 2026
+En las grillas se encuentran las referencias de modalidad de cursada: (R )Regular; (D)Distancia; (M)Magistral; (V) Virtual
+*ia:  Esta identificación señala los cursos que utilizan la herramienta de IA de la Facultad como apoyo para el aprendizaje.
+Curso	Dias	Horario	Profesor	Mod.	dia Virtual	* ia
+ ADMINISTRACION 
+ ADMINISTRACION GENERAL (252) 
+Cát:Prof  DEPARTAMENTO DE ADMINISTRACION 
+ Paternal 
+1	Lu\Ju	19a21	Amore Diego Victor 	R	Lu	 
+Cát:Prof   GRONDONA ANDREA MABEL 
+ Paternal 
+2	Lu\Ju	19a21	Alcain Marcelo Fabian 	R	 	 
+3	Lu\Ju	19a21	Rubinsztein Dario Ariel 	R	 	 
+ Pilar 
+4	Lu\Ju	09a11	Romero Moreno Juan Pablo 	R	Ju	 
+5	Lu\Ju	17a19	Vilaltella Mario Jorge 	R	 	 
+ Virtual 
+99	Ju	11a13	 	V	Ju	 
+Cát:Prof   KASTIKA EDUARDO SALVADOR 
+ Avellaneda 
+6	Lu\Ju	11a13	Pietras Nora Elisa 	R	Lu	 
+7	Lu\Ju	15a17	Lepori Gustavo Alejandro 	R	Lu	 
+ Paternal 
+8	Mi\Sa	19a21  Sa11a13	Abadi Miguel Alejandro 	R	Mi	 
+ San Isidro 
+9	Ma\Vi	09a11	Ghiglione Luis Maria 	R	Vi	 
+10	Ma\Vi	13a15	Kastika Eduardo Salvador -Fracassi Ravier Andrea A 	R	Ma	 
+ Virtual 
+98	Ma	13a15	 	V	Ma	 
+97	Lu	17a19	 	V	Lu	 
+Cát:Prof   MORONI FERNANDO CARLOS 
+ Avellaneda 
+11	Ma\Vi	17a19	Oliverio Emmanuel 	R	Vi	 
+ Paternal 
+12	Lu\Ju	07a09	Haddad Veronica 	R	Ju	 
+13	Lu\Ju	09a11	Carro Irma Beatriz 	R	 	 
+14	Ma\Vi	13a15	Tondi Gustavo Jose 	R	 	 
+15	Ma\Vi	17a19	Carro Irma Beatriz 	R	 	 
+ San Isidro 
+16	Lu\Ju	09a11	Quiñones Brun Maria Ladi 	R	 	 
+Cát:Prof   PAZ MARCELO LEOPOLDO 
+ Avellaneda 
+17	Ma\Vi	19a21	Piotti Lopez Hernan Carlos 	R	Vi	 
+ Paternal 
+18	Lu\Ju	21a23	Rodriguez Mormandi Leonardo Gabriel 	R	Lu	 
+ Virtual 
+96	Mi	09a11	 	V	Mi	 
+Cát:Prof   QUIROGA CANGIANO ROBERTO IVAN 
+ Paternal 
+19	Lu\Ju	11a13	Zwarycz Eugenio 	R	Ju	 
+20	Ma\Vi	19a21	Bonelli Mariano Alberto 	R	Ma	 
+Cát:Prof   QUIROGA OMAR 
+ Avellaneda 
+21	Lu\Ju	09a11	Giordano Daniela Alejandra 	R	Lu	 
+22	Lu\Ju	17a19	Jacobsohn Hernan Gabriel 	R	Ju	ia
+ Paternal 
+23	Ma\Vi	09a11	D Angelo Julian Leonardo 	R	Vi	 
+ San Isidro 
+24	Lu\Ju	19a21	Martinez Francisco Hernan 	R	 	 
+ SISTEMAS ADMINISTRATIVOS (274) 
+Cát:Prof   ALCAIN MARCELO FABIAN 
+ Cordoba 
+1	Lu\Ju	17a19	Binetti Roberto Mario 	R	 	 
+2	Ma\Vi	19a21	Alcain Marcelo Fabian 	R	Vi	 
+3	Ma\Vi	21a23	Cordero Maria Ines 	R	Vi	 
+ Pilar 
+4	Lu\Ju	11a13	Vilaltella Mario Jorge 	R	 	 
+ Virtual 
+99	Mi	19a21	 	V	Mi	 
+Cát:Prof  AROSTEGUI ANGEL OSCAR 
+ Avellaneda 
+5	Ma\Vi	09a11	Perrone Florencia Soledad 	R	Vi	 
+ Cordoba 
+6	Ma\Vi	09a11	Aira Laura Raquel 	R	Ma	ia
+7	Ma\Vi	11a13	Barrientos Jorge Washington 	R	Ma	 
+8	Ma\Vi	17a19	Iesulauro Alejandra Susana 	R	 	 
+9	Lu\Ju	19a21	Arzamendia Gustavo Hernan 	R	Ju	 
+10	Ma\Vi	19a21	Arostegui Angel Oscar 	R	Vi	ia
+ Paternal 
+11	Lu\Ju	19a21	Bonichini Fabian Maximiliano 	R	Lu	 
+ San Isidro 
+12	Ma\Vi	19a21	Pardo Hernan Christian 	R	Vi	 
+ Virtual 
+98	Mi	11a13	 	V	Mi	 
+Cát:Prof  CHAHIN TOMAS 
+ Avellaneda 
+13	Ma\Vi	15a17	Ferrari Ariel Horacio 	R	Vi	 
+ Cordoba 
+14	Lu\Ju	19a21	Nievas Gustavo Rodolfo 	R	 	 
+15	Lu\Ju	21a23	Chahin Tomas 	R	Ju	 
+ Paternal 
+16	Lu\Ju	09a11	Albertti Pedro Pablo Angel 	R	Ju	 
+ San Isidro 
+17	Lu\Ju	07a09	Lopez Iglesias Barbara Susana 	R	Ju	 
+18	Lu\Ju	09a11	Lopez Iglesias Maria Eugenia 	R	Ju	 
+ Virtual 
+97	Ju	19a21	 	V	Ju	 
+Cát:Prof Consulto GILLI JUAN JOSE 
+ Cordoba 
+19	Lu\Ju	09a11	Gilli Juan Jose 	R	Lu	 
+ Obs. Mat. 274/19: CATEDRA DE HONOR. 
+Cát:Prof Emérito GOMEZ FULAO JUAN CARLOS 
+ Cordoba 
+20	Ma\Vi	19a21	Gomez Fulao Juan Carlos -Li Preti Alejandro Pablo 	R	 	 
+ Obs. Mat. 274/20: CATEDRA DE HONOR.  
+Cát:Prof  SARAVIA FEDERICO 
+ Avellaneda 
+21	Ma\Vi	09a11	Herrera Silvana Natalia 	R	 	 
+ Cordoba 
+22	Lu\Ju	07a09	Franchi Fernando Juan 	R	Lu	 
+23	Lu\Ju	09a11	Jacobsohn Hernan Gabriel 	R	Ju	 
+24	Ma\Vi	09a11	Canals Maria Jose 	R	Vi	 
+25	Lu\Ju	19a21	Caraballo Sofia 	R	 	 
+ Paternal 
+26	Lu\Ju	09a11	Arce Juan Cruz 	R	 	 
+ Pilar 
+27	Ma\Vi	19a21	Jara Carlos Eduardo 	R	Vi	 
+ San Isidro 
+28	Lu\Ju	07a09	Moreno Alan Andres 	R	Lu	 
+ Virtual 
+96	Vi	19a21	 	V	Vi	 
+Cát:Prof  SOTOMAYOR SONIA BEATRIZ 
+ Avellaneda 
+29	Lu\Ju	19a21	Torreche Maria Fernanda 	R	Lu	ia
+ Cordoba 
+30	Lu\Ju	15a17	Cenci Nicolas Augusto 	R	Ju	 
+31	Lu\Ju	19a21	Figuera Sofia Gabriela 	R	Ju	 
+32	Ma\Vi	19a21	Perez Ruffa Andres German 	R	Vi	ia
+ San Isidro 
+33	Lu\Ju	17a19	Beltrami Maria Victoria 	R	 	 
+ Virtual 
+95	Mi	19a21	 	V	Mi	 
+ ADMINISTRACION FINANCIERA (279) 
+Cát:Prof  AIRE CARLOS ESTEBAN 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Alderete Edmundo Miguel 	R	Mi	 
+2	Ma\Vi\Sa	09a11	Perosio Luis Eduardo 	R	Sa	 
+3	Lu\Mi\Ju	17a19	Farroni Jose Luis 	R	Mi	 
+4	Lu\Mi\Ju	17a19	Ariganello Claudio Alberto 	R	Mi	 
+5	Lu\Mi\Ju	17a19	Veron Ariel Eduardo 	R	Mi	 
+6	Ma\Vi\Sa	19a21  Sa11a13	Marcos Damian Julio 	R	Sa	 
+7	Ma\Vi\Sa	19a21  Sa11a13	Aire Carlos Esteban 	R	Sa	 
+8	Lu\Mi\Ju	21a23	Caliri Pablo Horacio 	R	Lu	 
+ San Isidro 
+9	Lu\Mi\Ju	19a21	Moscato Carlos Mariano 	R	Lu	 
+10	Lu\Mi\Ju	19a21	Frechero Fernando 	R	Mi	 
+11	Ma\Vi\Sa	19a21  Sa11a13	Moscato Carlos Mariano 	R	Sa	 
+ Virtual 
+99	Ma	19a21	 	V	Ma	 
+Cát:Prof  FERNANDEZ HERIBERTO HORACIO 
+ Cordoba 
+12	Ma\Vi\Sa	17a19  Sa09a11	Fernandez Heriberto Horacio -Zabala Atucha Alejandro 	R	Vi	 
+ Obs. Mat. 279/12: CATEDRA DE HONOR. 
+Cát:Prof   TAPIA GUSTAVO NORBERTO 
+ Avellaneda 
+13	Lu\Mi\Ju	07a09	Sobrado Pablo Damian 	R	 	 
+14	Lu\Mi\Ju	21a23	Ruiz Diaz David Isaac 	R	Mi	 
+ Cordoba 
+15	Ma\Vi\Sa	07a09	Borgese Alejandro Daniel 	R	Sa	 
+16	Ma\Vi\Sa	07a09	Sanchez Gabriel Leandro 	R	Sa	 
+17	Lu\Mi\Ju	09a11	Piotti Lopez Hernan Carlos 	R	Lu	 
+18	Lu\Mi\Ju	11a13	Perossa Mario Luis 	R	Lu	 
+19	Lu\Mi\Ju	19a21	Perez Rodriguez Miguel Secundino 	R	Ju	 
+20	Ma\Vi\Sa	19a21  Sa11a13	Pedreira Marcelo Hernan 	R	Sa	 
+21	Ma\Vi\Sa	21a23  Sa13a15	Di Pelino Andres Ernesto 	R	Sa	 
+22	Ma\Vi\Sa	21a23  Sa13a15	Vaca Parcero Leandro Eduardo 	R	Vi	 
+ Paternal 
+23	Lu\Mi\Ju	19a21	Facal Arturo 	R	Ju	 
+ Pilar 
+24	Ma\Ju\Vi	09a11	Olivo Sergio Luis 	R	 	 
+25	Ma\Vi\Sa	17a19  Sa09a11	Olivo Sergio Luis 	R	 	 
+ San Isidro 
+26	Lu\Ju\Sa	07a09  Sa09a11	Lubos Alejandro Hector 	R	Sa	 
+27	Ma\Vi\Sa	19a21  Sa11a13	Calabro Alejandro Moises 	R	 	 
+ Virtual 
+98	Sa	09a11	 	V	Sa	 
+ ADMINISTRACION DE OPERACIONES (466) 
+Cát:Prof  MAIANTE HERNAN ALBERTO 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Maiante Hernan Alberto 	R	Lu	 
+2	Lu\Mi\Ju	13a15	Bulaievsky Carlos Alberto 	R	Mi	 
+3	Lu\Mi\Ju	17a19	Serafini Rocio 	R	 	 
+ Pilar 
+4	Ma\Ju	17a20	Paulun Juan Martin 	R	 	 
+Cát:Prof  PASCUAL MARIA DANIELA 
+ Cordoba 
+5	Lu\Mi\Ju	11a13	Diehl Gerardo Adrian 	R	Ju	 
+6	Lu\Mi\Ju	17a19	Oliver Guillermo Maximiliano 	R	Ju	 
+7	Lu\Mi\Ju	19a21	Pascual Maria Daniela 	R	Ju	 
+ Paternal 
+8	Ma\Vi\Sa	19a21  Sa13a15	Wersocky Matias Ariel 	R	Vi	 
+ Virtual 
+99	Vi	19a21	 	V	Vi	 
+Cát:Prof  SCAMPINI JORGE LUIS 
+ Avellaneda 
+9	Lu\Mi\Ju	17a19	Sanchez Lorena Gabriela 	R	Lu	 
+ Cordoba 
+10	Ma\Vi\Sa	07a09	Soto Karina Paola 	R	 	 
+11	Ma\Vi\Sa	17a19  Sa09a11	Sanchez Lorena Gabriela 	R	Sa	 
+12	Lu\Mi\Ju	19a21	Scampini Jorge Luis 	R	 	 
+13	Ma\Vi\Sa	19a21  Sa11a13	Sanchez Lorena Gabriela 	R	Vi	 
+ San Isidro 
+14	Lu\Mi\Ju	15a17	Fracassi Ravier Andrea A 	R	Mi	 
+ Virtual 
+98	Ma	15a17	 	V	Ma	 
+ GESTION DEL TALENTO (467) 
+Cát:Prof  HUBER LADISLAO LUDOVICO 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Larumbe Ruben Antonio 	R	Ju	 
+2	Lu\Mi\Ju	17a19	Di Benedetto Vanina Soledad 	R	Mi	 
+3	Ma\Vi\Sa	19a21  Sa11a13	Huber Ladislao Ludovico 	R	Sa	 
+ San Isidro 
+4	Ma\Vi\Sa	19a21  Sa11a13	Vanotti Dominguez Ariana Lucia 	R	Vi	 
+ Virtual 
+99	Vi	19a21	 	V	Vi	 
+Cát:Prof  MAZZA ROBERTO CESAR 
+ Avellaneda 
+5	Lu\Mi\Ju	19a21	Pozzali Arturo Gonzalo 	R	Ju	 
+ Cordoba 
+6	Lu\Mi\Ju	07a09	Zulli Ethel Edith 	R	Lu	 
+7	Lu\Mi\Ju	09a11	Crespo Giselle Leticia 	R	Lu	 
+8	Lu\Mi\Ju	17a19	Ferreyra Claudia Rosana 	R	Lu	ia
+9	Lu\Mi\Ju	17a19	Mazza Roberto Cesar -Variglia Y Pons Sofia 	R	Ju	ia
+10	Ma\Vi\Sa	21a23  Sa13a15	Moreno Claudio Edgardo 	R	Sa	 
+ Paternal 
+11	Lu\Mi\Ju	19a21	Bonelli Mariano Alberto 	R	Ju	 
+ Pilar 
+12	Ma\Mi\Vi	09a11	Diaz Patricia Raquel 	R	Vi	 
+ Virtual 
+98	Lu	19a21	 	V	Lu	 
+ MARKETING (469) 
+Cát:Prof  ALTIERI CLAUDIA ISABEL 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Messineo Maria De Los Angeles 	R	Mi	 
+2	Lu\Mi\Ju	11a13	Lopez Moar Diego Martin 	R	Mi	 
+3	Lu\Mi\Ju	17a19	Stracquadaini Jose Antonio 	R	Lu	 
+4	Ma\Vi\Sa	19a21  Sa11a13	Altieri Claudia Isabel 	R	Sa	 
+ San Isidro 
+5	Ma\Vi\Sa	09a11	Tauil Carlos Miguel 	R	Ma	 
+ Virtual 
+99	Sa	09a11	 	V	Sa	 
+Cát:Prof  NUÑEZ CATALINO 
+ Avellaneda 
+6	Lu\Mi\Ju	17a19	Goncalves Charneca Eva  	R	Ju	 
+ Cordoba 
+7	Lu\Mi\Ju	07a09	Radulovich Nadia 	R	Lu	 
+8	Lu\Mi\Ju	09a11	Erdellan Claudio Rodolfo 	R	Lu	 
+9	Lu\Mi\Ju	15a17	Baldomar Juan Pablo 	R	Ju	 
+10	Lu\Mi\Ju	19a21	Pogliano Martin Leonardo 	R	Mi	 
+11	Lu\Mi\Ju	19a21	Nuñez Catalino 	R	Ju	 
+ Paternal 
+12	Lu\Mi\Ju	19a21	Canalicchio Pablo Javier 	R	Mi	 
+ Virtual 
+98	Ju	17a19	 	V	Ju	 
+ CIENCIAS DE LA DECISION (470) 
+Cát:Prof Emérito BONATTI PATRICIA 
+ Cordoba 
+1	Lu\Mi\Ju	17a19	Bonatti Patricia -Feldman Laura Milena 	R	Ju	 
+ Obs. Mat. 470/1: CATEDRA DE HONOR. 
+Cát:Prof  CARRO IRMA BEATRIZ 
+ Avellaneda 
+2	Lu\Mi\Ju	19a21	Musetto Cristian Emmanuel 	R	Ju	 
+ Cordoba 
+3	Lu\Mi\Ju	07a09	Petrucci Marcelo Enrique 	R	Lu	 
+4	Lu\Mi\Ju	19a21	Carro Irma Beatriz 	R	 	 
+5	Ma\Vi\Sa	19a21  Sa11a13	Gigante Vanina Lorena 	R	Sa	 
+ Paternal 
+6	Lu\Mi\Ju	19a21	Slotnisky Ariel Norberto 	R	 	 
+ Virtual 
+97	Lu	09a11	 	V	Lu	 
+Cát:Prof  NOTARFRANCESCO LEANDRO NICOLAS 
+ Cordoba 
+7	Lu\Mi\Ju	19a21	Giongrande Alejandro Martin 	R	Mi	 
+8	Lu\Mi\Ju	21a23	Notarfrancesco Leandro Nicolas 	R	Mi	 
+ Pilar 
+9	Ma\Vi\Sa	19a21  Sa09a11	Tagle Santiago 	R	Vi	 
+ San Isidro 
+10	Lu\Mi\Ju	07a09	Simboli Federico Cesar 	R	Mi	 
+ Virtual 
+99	Lu	21a23	 	V	Lu	 
+Cát:Prof  RAMOS BLAS 
+ Cordoba 
+11	Ma\Vi\Sa	11a13	De Oliveira Santana Jose Luis 	R	Sa	 
+12	Lu\Mi\Ju	19a21	Ramos Blas 	R	 	 
+13	Ma\Vi\Sa	19a21  Sa11a13	Asz Mariano Saul 	R	Sa	 
+ San Isidro 
+14	Lu\Mi\Ju	19a21	Ruocco Luis Emilio 	R	Ju	 
+ Virtual 
+98	Ma	19a21	 	V	Ma	 
+ PLANEAMIENTO ESTRATEGICO (471) 
+Cát:Prof  CORTI MARCELO ALEJANDRO 
+ Avellaneda 
+1	Lu\Mi\Ju	09a11	Corti Marcelo Alejandro 	R	Ju	 
+ Cordoba 
+2	Ma\Vi\Sa	15a17  Sa11a13	Faranda Maria Celeste 	R	Sa	 
+3	Lu\Mi\Ju	17a19	Corti Marcelo Alejandro -Sanchez Leandro 	R	Ju	 
+4	Lu\Mi\Ju	19a21	Franco Tobias Mario Alejandro 	R	Mi	 
+5	Ma\Vi\Sa	19a21  Sa11a13	Etzensberger Fernando Andres 	R	Sa	 
+6	Ma\Vi\Sa	19a21  Sa11a13	Mosquera Arzamendia Raul Anibal 	R	Sa	 
+ Paternal 
+7	Lu\Mi\Ju	19a21	Zwarycz Eugenio 	R	Mi	 
+ Virtual 
+99	Ju	07a09	 	V	Ju	 
+Cát:Prof  GIGANTE VANINA LORENA 
+ Cordoba 
+8	Lu\Mi\Ju	07a09	Stivelman Luciana Andrea 	R	Lu	 
+9	Ma\Vi\Sa	07a09	Romo Valeria Edit 	R	Sa	 
+10	Ma\Vi\Sa	17a19  Sa09a11	Gigante Vanina Lorena 	R	Sa	 
+11	Lu\Mi\Ju	21a23	Seggiaro Marcela Lorena 	R	Ju	 
+ Pilar 
+12	Lu\Mi\Ju	07a09	Garcia Gabriela Constanza 	R	Ju	 
+ San Isidro 
+13	Lu\Mi\Ju	07a09	Gigante Vanina Lorena 	R	Ju	 
+14	Lu\Mi\Ju	17a19	Quiñones Brun Maria Ladi 	R	Ju	 
+ Virtual 
+98	Sa	09a11	 	V	Sa	 
+ DIRECCION (472) 
+Cát:Prof  ETKIN JORGE RICARDO 
+ Cordoba 
+1	Lu\Mi\Ju	17a19	Etkin Jorge Ricardo -Quiroga Cangiano Roberto Ivan 	R	 	 
+ Obs. Mat. 472/1: CATEDRA DE HONOR. 
+Cát:Prof  FAINSOD DARIO EDUARDO 
+ Cordoba 
+2	Lu\Mi\Ju	15a17	Fainsod Dario Eduardo 	R	 	 
+3	Ma\Vi\Sa	17a19  Sa11a13	Alcain Marcelo Fabian 	R	Sa	 
+4	Lu\Mi\Ju	21a23	Propatto Mercedes 	R	Mi	 
+ Virtual 
+99	Lu	13a15	 	V	Lu	 
+Cát:Prof  MORONI FERNANDO CARLOS 
+ Cordoba 
+5	Ma\Vi\Sa	07a09	Isaac Juan Ramiro 	R	Ma	 
+6	Lu\Mi\Ju	09a11	Mayan Meijome Diego Alfredo 	R	Lu	 
+7	Lu\Mi\Ju	17a19	Licastro Andrea Karina 	R	Ju	 
+8	Lu\Mi\Ju	17a19	Aracre Antonio Raul 	R	Mi	 
+9	Lu\Mi\Ju	19a21	Moroni Fernando Carlos 	R	Lu	 
+10	Ma\Vi\Sa	19a21  Sa11a13	Nuñez Catalino 	R	Sa	 
+ San Isidro 
+11	Lu\Mi\Ju	19a21	Bianchi Godard Luciano Ariel 	R	Lu	 
+ Virtual 
+98	Ma	19a21	 	V	Ma	 
+ PRACTICA PROFESIONAL (473) 
+Cát:Prof  ALTIERI CLAUDIA ISABEL 
+ Cordoba 
+1	 	 	Moroni Fernando Carlos 	R	 	 
+ Obs. Mat. 473/1: Para aquellos alumnos que hayan o estén realizando planes de investigación en la FCE. 
+2	 	 	Moroni Fernando Carlos 	R	 	 
+ Obs. Mat. 473/2: Para aquellos alumnos que hayan o estén realizando pasantías por la FCE. 
+3	Ju	09a11	Gigante Vanina Lorena 	R	 	 
+4	Ma	09a11	Santucci Marina Nieves 	R	 	 
+5	Ju	17a19	La Greca Veronica Alicia 	R	 	 
+6	Lu	17a19	Cacheiro Vanesa Sonia 	R	 	 
+7	Lu	17a19	Aguirre Marcela Gabriela 	R	 	 
+8	Ma	17a19	Quiroga Omar 	R	 	 
+9	Ma	17a19	Rodriguez Silvio Emmanuel 	R	 	 
+10	Mi	17a19	Marino Felipe 	R	 	 
+11	Mi	17a19	Aulicino Alejandra Maria Ines 	R	 	 
+12	Ju	19a21	Presedo Andrea Silvina 	R	 	 
+13	Lu	19a21	Quinteros Gladys Fabiana 	R	 	 
+14	Lu	19a21	Aguirre Marcela Gabriela 	R	 	 
+15	Ma	19a21	Ontiveros Diego Anibal 	R	 	 
+16	Mi	19a21	Seijas Rodrigo Martin 	R	 	 
+17	Mi	19a21	Aulicino Alejandra Maria Ines 	R	 	 
+18	Lu	21a23	Franco Tobias Mario Alejandro 	R	 	 
+Cát:Prof  QUIROGA CANGIANO ROBERTO IVAN 
+ Cordoba 
+19	Ju	09a11	Oliverio Emmanuel 	R	 	 
+20	Lu	09a11	Abadi Miguel Alejandro 	R	 	 
+21	Lu	09a11	Leiferman Uriel Israel 	R	 	 
+22	Ma	09a11	Cuppari Rafaela 	R	 	 
+23	Sa	09a11	Caruana Hernan Ezequiel 	R	 	 
+24	Vi	09a11	Oro Juan Manuel 	R	 	 
+25	Ju	17a19	Mercado Dugarte Dayana Ivette  	R	 	 
+26	Ma	17a19	Mayan Meijome Diego Alfredo 	R	 	 
+27	Lu	19a21	Cuello Graciela Ines 	R	 	 
+28	Mi	19a21	Mazza Roberto Cesar 	R	 	 
+ GEST. DE LA COMUNIC. POLIT. E INSTITUC. (474) 
+Cát:Prof  BARBIERI MARIA DANIELA 
+ Cordoba 
+1	Ma\Vi	17a19	Unamuno Camilo Juan 	R	Vi	 
+ CREATIVIDAD (476) 
+Cát:Prof  KASTIKA EDUARDO SALVADOR 
+ Cordoba 
+1	Lu\Ju	13a15	Lande Dan Martin 	R	Ju	 
+2	Lu\Ju	17a19	Kastika Eduardo Salvador -Wainstein Federico 	R	Ju	 
+ LOGISTICA (477) 
+Cát:Prof  TOMBION ALDO JOSE 
+ Cordoba 
+1	Ma\Vi	19a21	Tombion Aldo Jose 	R	Ma	 
+ GESTION PYME (478) 
+Cát:Prof  QUIROGA OMAR 
+ Cordoba 
+1	Ma\Vi	07a09	Rubinsztein Dario Ariel 	R	Vi	 
+2	Lu\Ju	19a21	Escobar Rene Jose 	R	Ju	 
+ NEGOCIOS INTERNACIONALES (479) 
+Cát:Prof  ALTIERI CLAUDIA ISABEL 
+ Cordoba 
+1	Lu\Ju	19a21	Altieri Claudia Isabel 	R	Lu	 
+ ADMINISTRACION DEL DEPORTE (480) 
+Cát:Prof  MORONI FERNANDO CARLOS 
+ Cordoba 
+1	Lu\Ju	09a11	Moroni Fernando Carlos -Kurlat Tatiana  	R	Lu	 
+ ADMINISTRACION DE LA EDUCACION (481) 
+Cát:Prof  JANUSZEVSKI SEBASTIAN 
+ Cordoba 
+1	Lu\Ju	07a09	Januszevski Sebastian 	R	Ju	 
+ GEST. ESTRATEGICA PARA LA TRANSF. SOC. (482) 
+Cát:Prof  KLIKSBERG BERNARDO 
+ Cordoba 
+1	Ma\Vi	17a19	D Angelo Julian Leonardo 	R	Vi	 
+Cát:Prof  ZAIDEL ANDREA OLGA 
+ Cordoba 
+2	Lu\Ju	19a21	Guevara Lynch Juan Pablo 	R	Ju	 
+ COMUNICACIÓN (483) 
+Cát:Prof  HUBER LADISLAO LUDOVICO 
+ Cordoba 
+1	Ma\Vi	21a23	Huber Ladislao Ludovico 	R	Vi	 
+ ORATORIA (484) 
+Cát:Prof  ADES CAROLINA 
+ Cordoba 
+1	Lu\Ju	09a11	Ades Carolina 	R	Ju	 
+ FINTECH, PAGOS DIGITALES Y CRIPTOACTIVOS (485) 
+Cát:Prof  DEPARTAMENTO DE ADMINISTRACION 
+ Cordoba 
+1	Lu\Ju	21a23	Milia Daniel Alberto 	R	Ju	 
+ DINAMICA ESTRATEGICA EMPRESARIAL (486) 
+Cát:Prof  LEVY ALBERTO RAMON 
+ Cordoba 
+1	Ma\Vi	19a21	Levy Alberto Ramon -Terreno Maria Florencia 	R	Vi	 
+ Obs. Mat. 486/1: CATEDRA DE HONOR. 
+ PERSPECTIVAS GLOBALES PARA SECT. ESTRAT. (487) 
+Cát:Prof  SABHA SERGIO JORGE 
+ Cordoba 
+1	Lu\Ju	19a21	Sabha Sergio Jorge 	R	 	 
+ ESTRATEGIA (488) 
+Cát:Prof Consulto SERRA RAFAEL ROBERTO 
+ Cordoba 
+1	Lu\Ju	07a09	Serra Rafael Roberto 	R	Lu	 
+ Obs. Mat. 488/1: CATEDRA DE HONOR. 
+ LIDERAZGO ORGANIZACIONAL (489) 
+Cát:Prof  INDELICATO NATALIA 
+ Cordoba 
+1	Ma\Vi	17a19	Indelicato Natalia 	R	Vi	 
+ INNOVACION (490) 
+Cát:Prof  DEPARTAMENTO DE ADMINISTRACION 
+ Cordoba 
+1	Lu\Ju	15a17	Kastika Eduardo Salvador 	R	Ju	 
+ GEST. DE ENTORNOS DIGITALES EN LAS ORG. (491) 
+Cát:Prof  DEPARTAMENTO DE ADMINISTRACION 
+ Cordoba 
+1	Lu\Ju	19a21	Freyre Carlos Alfredo 	R	Ju	 
+ MARKETING DIGITAL (706) 
+Cát:Prof   ESCOBAR RENE JOSE 
+ Cordoba 
+1	Lu\Ju	17a19	Cazalá Tomas Martin 	R	Ju	 
+2	Lu\Ju	19a21	Wiegrebe Adolfo Alberto 	R	Lu	 
+ NEGOCIACION (707) 
+Cát:Prof   ARENA RUBEN ANTONIO 
+ Cordoba 
+1	Lu\Ju	13a15	Ordeix Juan Jose 	R	Ju	 
+2	Lu\Ju	15a17	Gil Hernan Javier 	R	Ju	 
+ CALIDAD Y PRODUCTIVIDAD (718) 
+Cát:Prof   GONZALEZ ESCUDERO ALEJANDRO J 
+ Cordoba 
+1	Lu\Ju	17a19	Gonzalez Escudero Alejandro J 	R	Lu	 
+ ADMINISTRACION DE TURISMO (732) 
+Cát:Prof   SINGERMAN PABLO ALEJANDRO 
+ Cordoba 
+1	Lu\Ju	17a19	Singerman Pablo Alejandro -Miguel De La Cruz Gaston 	R	Ju	 
+ EMPRENDEDOR 21 (733) 
+Cát:Prof   ARISTIZABAL VICTOR PABLO GUSTAVO 
+ Cordoba 
+1	Ma\Vi	21a23	Aristizabal Victor Pablo Gustavo 	R	Vi	 
+ ADMINISTRACION DE LA SALUD (749) 
+Cát:Prof   BURGOS ALEJANDRO BERNARDO 
+ Cordoba 
+1	Lu\Ju	17a19	Goldman Ariel Mario 	R	Ju	 
+2	Ma\Vi	17a19	Sandovares Facundo 	R	Vi	 
+3	Ma\Vi	19a21	Burgos Alejandro Bernardo 	R	Vi	 
+ Virtual 
+99	Ma	19a21	 	V	Ma	 
+ SEM.ETICA DE LAS OCUPACIONES (791) 
+Cát:Prof   LEGNA PABLO HERNAN 
+ Cordoba 
+1	Ma\Vi	17a19	Legna Pablo Hernan 	R	Ma	 
+ ADMINISTRACION PUBLICA (794) 
+Cát:Prof  BLUTMAN GUSTAVO EDGARDO 
+ Cordoba 
+1	Ma\Vi	09a11	Piotti Lopez Hernan Carlos 	R	Vi	 
+2	Ma\Vi	19a21	Cao Horacio Antonio 	R	Vi	 
+ Virtual 
+99	Ju	09a11	 	V	Ju	 
+Cát:Prof   OTERO ALEJANDRO ADRIAN 
+ Cordoba 
+3	Lu\Ju	07a09	Otero Alejandro Adrian 	R	Ju	 
+4	Ma\Vi	09a11	Fantoni Mariano Ezequiel 	R	Vi	 
+5	Lu\Ju	11a13	Pandolfi Lionel Ruben 	R	Ju	 
+6	Lu\Ju	19a21	Waisbrod Laura Alejandra 	R	Ju	 
+ Virtual 
+98	Ma	21a23	 	V	Ma	 
+ CONDUCCION DE EQUIPOS DE TRABAJO (795) 
+Cát:Prof   ABADI MIGUEL ALEJANDRO 
+ Cordoba 
+1	Lu\Ju	07a09	Abadi Miguel Alejandro 	R	Ju	 
+2	Lu\Ju	17a19	Sciarrotta Carolina Alejandra 	R	Ju	 
+ San Isidro 
+3	Lu\Ju	07a09	Mey Carlos Matias 	R	Ju	 
+ E COMMERCE (1709) 
+Cát:Prof  SERRANO HERNAN DIEGO 
+ Cordoba 
+1	Lu\Ju	17a19	Serrano Hernan Diego 	R	Ju	 
+ PSICOLOGIA ORGANIZACIONAL (1710) 
+Cát:Prof  OLIVERIO EMMANUEL 
+ Cordoba 
+1	Mi\Sa	17a19  Sa09a11	Oliverio Emmanuel 	R	Sa	 
+ GESTION DE LA INTELIGENCIA ARTIFICIAL (1711) 
+Cát:Prof  PARRAS DIEGO ALEJANDRO 
+ Cordoba 
+1	Lu\Ju	17a19	Parras Diego Alejandro 	R	Ju	ia
+ ADMINISTRACION DE LA CULTURA (1797) 
+Cát:Prof  COLACIOPPO PAULA NATALIA 
+ Cordoba 
+1	Lu\Ju	17a19	Colacioppo Paula Natalia 	R	Lu	 
+ CONTABILIDAD 
+ TEORIA CONTABLE (247) 
+Cát:Prof Titular Regular CAMPO ANA MARIA 
+ Avellaneda 
+1	Ma\Mi\Vi	07a09	Escobar Duque Jhon Edinson 	R	Vi	 
+2	Ma\Mi\Vi	11a13	Santiago Maria Isabel 	R	Ma	 
+3	Ma\Mi\Vi	19a21	Spisso Claudio Eduardo 	R	Vi	 
+4	Ma\Mi\Vi	21a23	Piotti Lopez Hernan Carlos 	R	Vi	 
+ Cordoba 
+5	Lu\Mi\Ju	13a15	Sanchez Veronica Andrea 	R	Ju	 
+70	Mi	17a19	Zaglul Carlos Salomon 	D	 	 
+ Paternal 
+6	Lu\Mi\Ju	07a09	Mild Diego Rodrigo 	R	Ju	 
+7	Lu\Mi\Ju	09a11	Ale Maria Ester 	R	 	 
+8	Lu\Mi\Ju	11a13	Garrido Elisabet Gilda 	R	Lu	 
+9	Ma\Mi\Vi	11a13	Lang Fernando Marcelo 	R	Vi	 
+10	Lu\Mi\Ju	19a21	Quintana Andrea Rosana 	R	Mi	 
+11	Lu\Mi\Ju	19a21	Schmutz Felix Ariel 	R	Mi	 
+12	Ma\Mi\Vi	21a23	Guffanti German Enrique 	R	Mi	 
+ Pilar 
+13	Lu\Mi\Ju	19a21	Giudici Claudia Veronica 	R	Ju	 
+ San Isidro 
+14	Ma\Mi\Vi	09a11	Santiago Griselda Mabel 	R	Ma	 
+15	Ma\Mi\Vi	11a13	Sebastian Monica Patricia 	R	Mi	 
+16	Lu\Mi\Ju	17a19	Varriano Rosa 	R	Mi	 
+17	Ma\Mi\Vi	19a21	Fecit Damian Gaston 	R	Mi	 
+ Virtual 
+99	Ju	13a15	 	V	Ju	 
+Cát:Prof Titular Interino D ONOFRIO PAULA ALEJANDRA 
+ Avellaneda 
+18	Lu\Mi\Ju	07a09	Pisani Damian Anibal 	R	Mi	 
+19	Lu\Mi\Ju	15a17	D Onofrio Paula Alejandra -Santiago Maria Isabel 	R	Ju	 
+20	Ma\Mi\Vi	17a19	Fraga Alejandro 	R	Vi	 
+21	Lu\Mi\Ju	21a23	Lecuona Gonzalo Martin 	R	Mi	 
+ Cordoba 
+22	Lu\Mi\Ju	11a13	Gomez Rosana Edith 	R	Ju	 
+23	Ma\Mi\Vi	11a13	Nadales Mariana Alicia 	R	Ma	 
+ Paternal 
+24	Ma\Mi\Vi	09a11	Moreno Elvira Del Carmen 	R	Mi	 
+25	Lu\Mi\Ju	11a13	Santiago Griselda Mabel 	R	Lu	 
+26	Lu\Mi\Ju	11a13	Deu Daniel Ruben Hector 	R	Lu	 
+27	Lu\Mi\Ju	17a19	Rodriguez Gaston Nestor 	R	Lu	 
+28	Ma\Mi\Vi	17a19	Carozzo Eduardo Raul 	R	Mi	 
+29	Ma\Mi\Vi	19a21	Salcedo Souto Ernesto Gustavo 	R	Vi	 
+ San Isidro 
+30	Lu\Mi\Ju	21a23	Carozzo Eduardo Raul 	R	Lu	 
+ Virtual 
+98	Lu	21a23	 	V	Lu	 
+Cát:Prof   SECR. AREA TEORIA CONTABLE  
+ Pilar 
+31	Lu\Mi\Ju	09a11	Otranto Jose Ruben 	R	Mi	 
+Cát:Prof Titular Regular SUAREZ KIMURA ELSA BEATRIZ 
+ Cordoba 
+85	Vi	17a19	Suarez Kimura Elsa Beatriz -Chiquiar Walter Rene 	M	 	 
+ SISTEMAS CONTABLES (351) 
+Cát:Prof Titular Regular BURSESI NESTOR HORACIO 
+ Avellaneda 
+1	Lu\Mi\Ju	17a19	Perez Bounakis Dario Osvaldo 	R	Lu	 
+ Cordoba 
+2	Ma\Vi\Sa	07a09  Sa09a11	Rinaldi Viviana Monica 	R	Sa	 
+3	Lu\Mi\Ju	09a11	Stolkiner Diego Adrian 	R	Ju	 
+4	Ma\Vi\Sa	17a19  Sa11a13	Perez Jorge Ezequiel 	R	Sa	 
+5	Lu\Mi\Ju	19a21	Hortas Daniel Hector 	R	Lu	 
+6	Ma\Vi\Sa	19a21  Sa11a13	Leiva Maria Eva 	R	Sa	 
+7	Ma\Vi\Sa	21a23  Sa11a13	Perez Jorge Ezequiel 	R	Sa	 
+ San Isidro 
+8	Lu\Mi\Ju	19a21	Teseo Fernando Pablo 	R	Lu	 
+Cát:Prof Titular Regular CAMPO ANA MARIA 
+ Cordoba 
+9	Lu\Mi\Ju	15a17	Braidot Adriana Gabriela 	R	Ju	 
+10	Lu\Mi\Ju	17a19	Tuler Liliana Ines 	R	Ju	 
+11	Lu\Mi\Ju	21a23	Ale Maria Ester 	R	 	 
+ Paternal 
+12	Ma\Mi\Vi	07a09	Mild Diego Rodrigo 	R	Mi	 
+ Pilar 
+13	Lu\Mi\Ju	07a09	Piacquadio Cecilia 	R	Lu	 
+ San Isidro 
+14	Lu\Mi\Ju	17a19	Giudici Claudia Veronica 	R	Lu	 
+ Virtual 
+99	Ju	15a17	 	V	Ju	 
+Cát:Prof Regular Asociado a/C. D ONOFRIO PAULA ALEJANDRA 
+ Avellaneda 
+15	Ma\Mi\Vi	21a23	Lecuona Gonzalo Martin 	R	Mi	 
+ Cordoba 
+16	Lu\Mi\Ju	07a09	Garcia Arango Jose Marcelo 	R	Lu	 
+21	Lu\Mi\Ju	9a11	Gallego Tinto Juan Manuel 	R	Ju	 
+ Paternal 
+17	Ma\Mi\Vi	19a21	Gomez Rosana Edith 	R	Vi	 
+Cát:Prof Interino Asociado a/C. FRUSTACI CLAUDIO CONSTANTINO 
+ Cordoba 
+18	Ma\Vi\Sa	19a21  Sa11a13	Frustaci Claudio Constantino -Peker Enrique Pablo 	R	Sa	 
+ Virtual 
+98	Lu	09a11	 	V	Lu	 
+Cát:Prof Emérito PAHLEN RICARDO JOSE M 
+ Cordoba 
+19	Lu\Mi\Ju	09a11	Pahlen Ricardo Jose M -Weisman Facundo Javier 	R	Ju	 
+ Obs. Mat. 351/19: CATEDRA DE HONOR. 
+85	Ma	15a17	Pahlen Ricardo Jose M -Bursesi Nestor Horacio 	M	 	 
+Cát:Prof Titular Regular YACOBITTI EMILIANO BENJAMIN 
+ Cordoba 
+20	Lu\Mi\Ju	19a21	Kranevitter Carla Joana 	R	Ju	ia
+ SISTEMAS DE COSTOS (353) 
+Cát:Prof Regular Asociado a/C. CARRATALA JUAN MARTIN 
+ Avellaneda 
+1	Lu\Ju	09a11	Santillan Martin Eduardo 	R	Lu	 
+ Cordoba 
+2	Ma\Vi	07a09	Nastasi Andrea Veronica 	R	Vi	 
+3	Ma\Vi	07a09	Franco Mara Karina 	R	 	 
+4	Ma\Vi	09a11	Franco Mara Karina 	R	 	 
+5	Lu\Ju	11a13	Gomez Gabriela Angela 	R	Ju	 
+6	Lu\Ju	19a21	Carratala Juan Martin -Santillan Martin Eduardo 	R	Lu	 
+ Paternal 
+7	Lu\Ju	19a21	Ruiz Diaz Federico Leonardo 	R	Lu	 
+ Virtual 
+99	Sa	09a11	 	V	Sa	 
+Cát:Prof Regular Asociado a/C. LAMBERTUCCI MAURICIO ENRIQUE 
+ Avellaneda 
+8	Ma\Vi	19a21	Zunino Alejandro 	R	Vi	 
+ Cordoba 
+9	Lu\Ju	07a09	Daian Isaac Martin 	R	Ju	 
+10	Lu\Ju	17a19	Zunino Alejandro 	R	Ju	 
+ Virtual 
+98	Sa	11a13	 	V	Sa	 
+Cát:Prof Titular Regular MARZULLO MIGUEL 
+ Cordoba 
+11	Lu\Ju	13a15	Revah Gustavo Fabian 	R	Ju	 
+12	Lu\Ju	17a19	Moon Jae Soon  	R	 	 
+13	Ma\Vi	19a21	Ons Pablo Ramon 	R	Vi	 
+14	Lu\Ju	21a23	Comin Patricia Elena 	R	Ju	 
+ Virtual 
+97	Mi	17a19	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. PODMOGUILNYE MARCELO GUSTAVO 
+ Cordoba 
+15	Ma\Vi	21a23	Podmoguilnye Marcelo Gustavo 	R	Ma	 
+Cát:Prof Interino Asociado a/C. SARDI JORGE CARLOS 
+ Cordoba 
+16	Lu\Ju	09a11	Gomez Gabriela Angela 	R	Ju	 
+17	Lu\Ju	19a21	Sardi Jorge Carlos -Arcuschin Jesica Edith 	R	Ju	 
+18	Lu\Ju	21a23	Castelnuovo Nicolas 	R	 	 
+ Pilar 
+19	Lu\Ju	07a09	Rocci Paola Andrea 	R	 	 
+ San Isidro 
+20	Lu\Ju	11a13	Sardi Jorge Carlos 	R	Ju	 
+Cát:Prof Titular Regular SMOLJE ALEJANDRO RUBEN 
+ Cordoba 
+21	Ma\Vi	19a21	Ferrero Jorge Alejandro 	R	 	 
+ Paternal 
+22	Lu\Ju	07a09	Marinelli German 	R	Ju	 
+ San Isidro 
+23	Ma\Vi	17a19	Marinelli German 	R	 	 
+ Virtual 
+96	Mi	19a21	 	V	Mi	 
+ AUDITORIA (355) 
+Cát:Prof Titular Regular CANETTI MIGUEL MARCELO 
+ Cordoba 
+1	Lu\Mi\Ju	17a19	Canetti Miguel Marcelo 	R	Lu	 
+2	Lu\Mi\Ju	19a21	Canetti Miguel Marcelo 	R	Lu	 
+Cát:Prof Titular Regular NACUZZI NORBERTO MARCELO 
+ Cordoba 
+3	Lu\Mi\Ju	07a09	Ini Llorente Linda Daniela 	R	Mi	 
+4	Ma\Vi\Sa	09a11	Carballal Gustavo Gabriel Ramon 	R	Sa	 
+5	Lu\Mi\Ju	11a13	Ramos Brenda Micaela 	R	Mi	 
+6	Ma\Vi\Sa	19a21  Sa09a11	Pesyk Adrian Gustavo 	R	Sa	 
+ Pilar 
+7	Lu\Mi\Ju	19a21	Benseñy Mariano Daniel 	R	Mi	 
+ San Isidro 
+8	Ma\Mi\Vi	17a19	Leone Javier Emilio 	R	Vi	 
+Cát:Prof Titular Regular PALMIERI DORA MARIA 
+ Cordoba 
+9	Lu\Mi\Ju	19a21	Palmieri Dora Maria -Hanjze Ezequiel Esteban 	R	Ju	 
+ Paternal 
+10	Lu\Mi\Ju	19a21	Fernandez Menta Adriana Claudi 	R	Ju	 
+ San Isidro 
+11	Lu\Mi\Ju	19a21	Hiegelsberger Mariano Ricardo 	R	Ju	 
+Cát:Prof Titular Regular RAPISARDA CARLOS ALBERTO 
+ Cordoba 
+12	Lu\Mi\Ju	17a19	Contini Silvina Carmen 	R	Mi	 
+13	Ma\Vi\Sa	17a19  Sa09a11	Nardacchione Damian Ariel 	R	Ma	 
+14	Lu\Mi\Ju	19a21	Santaguida Julian 	R	Ju	 
+15	Ma\Vi\Sa	19a21  Sa11a13	Tuñez Fernando Adrian 	R	Sa	 
+16	Lu\Mi\Ju	21a23	Di Natale Nieves Carlos Facundo 	R	Ju	 
+17	Ma\Vi\Sa	21a23  Sa11a13	Fernandez Walter Guillermo 	R	Sa	 
+ Virtual 
+99	Sa	09a11	 	V	Sa	 
+Cát:Prof Titular Regular SUB.DIR.AREA EJERCICIO PROF. 
+ Avellaneda 
+18	Lu\Mi\Ju	19a21	Liberti Esteban 	R	Mi	 
+ Cordoba 
+19	Lu\Mi\Ju	07a09	Gallego Tinto Juan Manuel 	R	Ju	 
+20	Lu\Mi\Ju	17a19	Moure Maximiliano Enrique 	R	Ju	 
+21	Lu\Mi\Ju	19a21	Osorio Omar Dario 	R	Ju	 
+ San Isidro 
+22	Ma\Mi\Vi	19a21	Zabaleta Jorge Frederico 	R	Vi	 
+ GESTION Y COSTOS (PARA CONTADORES) (362) 
+Cát:Prof Regular Asociado a/C. CARRATALA JUAN MARTIN 
+ Cordoba 
+1	Ma\Vi\Sa	07a09	Ruiz Diaz Federico Leonardo 	R	Sa	 
+2	Lu\Mi\Ju	17a19	Carratala Juan Martin 	R	Mi	 
+3	Lu\Mi\Ju	19a21	Revah Gustavo Fabian 	R	Ju	 
+ Virtual 
+99	Lu	19a21	 	V	Lu	 
+Cát:Prof Regular Asociado a/C. DI STEFANO VICTORIO 
+ Cordoba 
+4	Ma\Vi\Sa	19a21  Sa11a13	Di Stefano Victorio 	R	 	 
+ San Isidro 
+5	Lu\Mi\Ju	17a19	Di Stefano Victorio 	R	Mi	 
+Cát:Prof Regular Asociado a/C. FARRE DANIEL 
+ Paternal 
+6	Lu\Mi\Ju	19a21	Hasda Gonzalo Hernan 	R	Lu	 
+Cát:Prof Regular Asociado a/C. LAMBERTUCCI MAURICIO ENRIQUE 
+ Avellaneda 
+7	Ma\Vi\Sa	17a19  Sa09a11	Cammarata Ignacio Gabriel 	R	Vi	 
+ Cordoba 
+8	Lu\Mi\Ju	09a11	Lambertucci Mauricio Enrique 	R	Lu	 
+9	Lu\Mi\Ju	19a21	Daian Isaac Martin 	R	Mi	 
+10	Ma\Vi\Sa	21a23  Sa13a15	Fadul Fernando Nahuel 	R	Sa	 
+ Pilar 
+11	Lu\Mi\Ju	09a11	Rocci Paola Andrea 	R	Mi	 
+ San Isidro 
+12	Ma\Mi\Vi	19a21	Amena Ariel Martin 	R	Mi	 
+Cát:Prof Titular Regular MARZULLO MIGUEL 
+ Cordoba 
+13	Ma\Vi\Sa	09a11	Marzullo Miguel -Comin Patricia Elena 	R	Sa	 
+14	Lu\Mi\Ju	15a17	Comin Patricia Elena 	R	Lu	 
+15	Ma\Vi\Sa	17a19  Sa09a11	Ghedin Marisa Ines 	R	Sa	 
+ Virtual 
+98	Mi	19a21	 	V	Mi	 
+Cát:Prof Titular Regular SMOLJE ALEJANDRO RUBEN 
+ Cordoba 
+16	Lu\Mi\Ju	07a09	Rodeiro Omar Daniel 	R	 	 
+ GESTION DE COSTOS (464) 
+Cát:Prof Regular Asociado a/C. CARRATALA JUAN MARTIN 
+ Avellaneda 
+1	Lu\Ju	07a09	Santillan Martin Eduardo 	R	Lu	 
+ Cordoba 
+2	Lu\Ju	07a09	Di Bella Andrea Mabel 	R	Lu	 
+3	Lu\Ju	11a13	Guglielmino Marcelo 	R	Lu	 
+ Virtual 
+99	Ju	19a21	 	V	Ju	 
+Cát:Prof Regular Asociado a/C. DI STEFANO VICTORIO 
+ Virtual 
+98	Mi	17a19	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. FARRE DANIEL 
+ Paternal 
+4	Lu\Ju	17a19	Hasda Gonzalo Hernan 	R	Lu	 
+ San Isidro 
+5	Ma\Vi	19a21	Farre Daniel -Ambrosone Mario Andres 	R	Vi	 
+Cát:Prof Regular Asociado a/C. LAMBERTUCCI MAURICIO ENRIQUE 
+ Cordoba 
+6	Lu\Ju	13a15	Jaunarena Bruno 	R	Lu	ia
+7	Ma\Vi	19a21	Fernandez Nicolas Facundo 	R	Vi	 
+ Virtual 
+97	Lu	19a21	 	V	Lu	 
+Cát:Prof Titular Regular MARZULLO MIGUEL 
+ Cordoba 
+8	Ma\Vi	21a23	Montenegro Luciano Mauricio 	R	Vi	 
+ Pilar 
+9	Lu\Ju	17a19	Sanchez Gisela Vanesa 	R	Ju	 
+Cát:Prof Regular Asociado a/C. PODMOGUILNYE MARCELO GUSTAVO 
+ Cordoba 
+10	Ma\Vi	07a09	Converti Gustavo 	R	Vi	 
+11	Lu\Ju	09a11	Buglione Carlos Gustavo 	R	 	 
+12	Lu\Ju	17a19	Ibañez Daniel Mariano 	R	Ju	 
+13	Ma\Vi	19a21	Podmoguilnye Marcelo Gustavo 	R	Ma	 
+ Paternal 
+14	Lu\Ju	19a21	Bordoli Luis Fernando 	R	Lu	 
+Cát:Prof Titular Regular SMOLJE ALEJANDRO RUBEN 
+ Cordoba 
+15	Lu\Ju	19a21	Smolje Alejandro Ruben -Alvarez Rosana Alejandra 	R	Lu	 
+Cát:Prof  SUBDIREC.AREA GESTION Y COSTOS 
+ Cordoba 
+16	Lu\Ju	19a21	Gonzalez Escudero Alejandro J 	R	Lu	 
+17	Lu\Ju	21a23	Ferrari Ariel Horacio 	R	Lu	ia
+ Paternal 
+18	Lu\Ju	09a11	Gonzalez Escudero Alejandro J 	R	Lu	 
+ ACT.CONT.EN PREV.DE CORRUP.Y LAV.DE ACT. (744) 
+Cát:Prof  CRISTOBAL NORMA ALICIA 
+ Cordoba 
+1	Ma\Vi	09a11	Cristobal Norma Alicia -Pittet Maria Jose 	R	Ma	 
+ SEM.COSTOS PARA LA TOMA DE DECISIONES (770) Seminario Avanzado de Costos
+Cát:Prof Regular Asociado a/C. FARRE DANIEL 
+ Cordoba 
+1	Lu\Ju	19a21	Farre Daniel 	R	Lu	 
+ SEMINARIO SINDICATURA CONCURSAL (775) 
+Cát:Prof  GARRIDO ELISABET GILDA 
+ Cordoba 
+1	Ma\Vi	19a21	Garrido Elisabet Gilda 	R	Ma	 
+ PLANEAMIENTO Y CTRL.PRESUPUEST. (776) 
+Cát:Prof   SUBDIREC.AREA GESTION Y COSTOS 
+ Cordoba 
+1	Ma\Vi	07a09	Diez Gerardo Oscar 	R	Vi	 
+2	Ma\Vi	19a21	Oknaian Esteban Ruben 	R	Vi	 
+ San Isidro 
+3	Ma\Vi	07a09	Montell Maria De Los Milagros 	R	Vi	 
+ Virtual 
+99	Ma	17a19	 	V	Ma	 
+ CONTABILIDAD SOCIAL Y AMBIENTAL (1330) 
+Cát:Prof  CAMPO ANA MARIA 
+ Cordoba 
+1	Vi	09a11	Weisman Facundo Javier 	R	 	 
+2	Ju	17a19	Piacquadio Cecilia 	R	 	 
+3	Ma	19a21	Sanchez Veronica Andrea 	R	 	 
+Cát:Prof Regular Asociado a/C. D ONOFRIO PAULA ALEJANDRA 
+ Avellaneda 
+4	Ju	19a21	D Onofrio Paula Alejandra -Santiago Griselda Mabel 	R	 	 
+ Paternal 
+5	Mi	19a21	D Onofrio Paula Alejandra -Muñoz Ordoñez Claudia 	R	 	 
+Cát:Prof Emérito PAHLEN RICARDO JOSE M 
+ Cordoba 
+6	Mi	11a13	Pahlen Ricardo Jose M -D Onofrio Paula Alejandra 	R	 	 
+ Obs. Mat. 1330/6: CATEDRA DE HONOR. 
+ CONTABILIDAD FINANCIERA (1352) 
+Cát:Prof Titular Interino BURSESI NESTOR HORACIO 
+ Avellaneda 
+1	Lu\Mi\Ju	17a19	D Onofrio Paula Alejandra 	R	Lu	 
+ Cordoba 
+2	Lu\Mi\Ju	07a09	Bursesi Nestor Horacio 	R	Mi	 
+3	Lu\Mi\Ju	13a15	Di Sibio Francisco Daniel 	R	Mi	 
+4	Ma\Vi\Sa	15a17  Sa13a15	Saulo Marina Lorena 	R	Vi	 
+5	Lu\Mi\Ju	19a21	Gajst Ignacio Fabian 	R	Mi	 
+6	Ma\Vi\Sa	19a21  Sa11a13	Rinaldi Viviana Monica 	R	Ma	 
+ Paternal 
+7	Lu\Mi\Ju	19a21	Ferreiro Mauro Fabian 	R	Ju	 
+Cát:Prof Titular Regular CAMPO ANA MARIA 
+ Avellaneda 
+8	Lu\Mi\Ju	07a09	Escobar Duque Jhon Edinson 	R	Ju	 
+9	Lu\Mi\Ju	19a21	Spisso Claudio Eduardo 	R	Mi	 
+ Cordoba 
+10	Lu\Mi\Ju	17a19	Simonetti Marcelo 	R	Ju	 
+11	Lu\Mi\Ju	17a19	Kerner Martin Alberto 	R	Ju	 
+12	Lu\Mi\Ju	17a19	Chinen Christian David 	R	Lu	 
+13	Lu\Mi\Ju	19a21	Piotti Lopez Hernan Carlos 	R	Lu	 
+14	Ma\Mi\Vi	19a21	Rapisarda Carlos Alberto 	R	Vi	 
+15	Lu\Mi\Ju	21a23	Chiquiar Walter Rene 	R	Lu	 
+ Paternal 
+16	Lu\Mi\Ju	09a11	Faraoni Patricia Ines 	R	Lu	 
+ Pilar 
+17	Lu\Mi\Ju	09a11	Piacquadio Cecilia 	R	Lu	 
+ San Isidro 
+18	Lu\Mi\Ju	21a23	Mild Diego Rodrigo 	R	Lu	 
+Cát:Prof Regular Asociado a/C. GARCIA FRONTI INES MERCEDES 
+ Cordoba 
+19	Lu\Mi\Ju	09a11	Deu Daniel Ruben Hector 	R	Lu	 
+20	Lu\Mi\Ju	11a13	Garcia Fronti Ines Mercedes -Segura Elias Martin 	R	Ju	 
+Cát:Prof Titular Regular RODRIGUEZ MARIA DEL CARMEN 
+ Cordoba 
+21	Lu\Mi\Ju	07a09	Quintana Adriana Miriam 	R	Mi	 
+22	Lu\Mi\Ju	15a17	Rodriguez Maria Del Carmen 	R	Mi	 
+Cát:Prof Titular Regular SUAREZ KIMURA ELSA BEATRIZ 
+ Cordoba 
+23	Ma\Vi\Sa	17a19  Sa09a11	Musri Lilian 	R	Sa	 
+24	Lu\Mi\Ju	21a23	Greco Norali Araceli 	R	Mi	 
+25	Ma\Vi\Sa	21a23  Sa11a13	Labella Javier Anibal 	R	Sa	 
+ Virtual 
+99	Lu	19a21	 	V	Lu	 
+ TALLER DE ACTUACION PROFESIONAL JUDICIAL (1358) El dictado de los cursos estará a cargo de las cátedras CRISTOBAL, GARRIDO y ZAGLUL
+Cát:Prof Interino Asociado a/C. CRISTOBAL NORMA ALICIA 
+ Cordoba 
+1	Lu\Ju	15a17	Cristobal Norma Alicia 	R	Ju	 
+2	Lu\Ju	15a17	Cristobal Norma Alicia -Carmona Alejandro Daniel 	R	Lu	 
+3	Lu\Ju	21a23	Prebianca Orlando Juan 	R	Lu	 
+Cát:Prof Interino Asociado a/C. GACIO MARISA 
+ Cordoba 
+4	Lu\Ju	17a19	Gacio Marisa -Russo Gabriela Veronica 	R	Lu	ia
+5	Ma\Vi	17a19	Fernandes Dos Santos Hugo Daniel 	R	Vi	 
+6	Ma\Vi	17a19	Benitez Flavia Daniela 	R	Vi	 
+7	Lu\Ju	19a21	Russo Gabriela Veronica 	R	Ju	ia
+8	Ma\Vi	19a21	Alvarez Lancellotti Juan Ignacio 	R	Vi	 
+9	Lu\Ju	21a23	Lopreiato Daniel Alejandro 	R	Ju	 
+Cát:Prof Interino Asociado a/C. GARRIDO ELISABET GILDA 
+ Cordoba 
+10	Ma\Vi	07a09	Rodriguez Jose Antonio 	R	Ma	 
+11	Lu\Ju	11a13	D Atri Claudia Maria 	R	Lu	 
+12	Ma\Vi	17a19	Garrido Elisabet Gilda 	R	Ma	 
+Cát:Prof Interino Asociado a/C. ZAGLUL CARLOS SALOMON 
+ Cordoba 
+13	Ma\Vi	09a11	Zaglul Carlos Salomon -Stolkiner Diego Adrian 	R	Vi	 
+14	Lu\Ju	15a17	Ail Gabriel Marcelo 	R	Lu	 
+15	Lu\Ju	19a21	Celano Romina 	R	Lu	 
+16	Ma\Vi	21a23	Viscarret Maria Ines 	R	Vi	 
+ TALLER DE PRACTICA PROFESIONAL EN ORG. (1361) El dictado de los cursos estará a cargo de las cátedras BURSESI y GARRIDO
+Cát:Prof Interino Asociado a/C. BURSESI NESTOR HORACIO 
+ Cordoba 
+1	Lu\Ju	09a11	Di Sibio Francisco Daniel 	R	Lu	 
+Cát:Prof Interino Asociado a/C. CASABE HORACIO DAVID 
+ Cordoba 
+2	Mi\Sa	19a21  Sa11a13	Casabe Horacio David -Gionto Matias Nicolas 	R	Sa	 
+Cát:Prof Interino Asociado a/C. CRISTOBAL NORMA ALICIA 
+ Cordoba 
+3	Lu\Ju	09a11	Cristobal Norma Alicia -Effron Dalila Vera 	R	Ju	 
+4	Lu\Ju	11a13	Braidot Adriana Gabriela 	R	Ju	 
+5	Lu\Ju	17a19	Carmona Alejandro Daniel -Cristobal Norma Alicia 	R	Lu	 
+Cát:Prof Interino Asociado a/C. GARRIDO ELISABET GILDA 
+ Cordoba 
+6	Lu\Ju	17a19	Garrido Elisabet Gilda 	R	Lu	 
+7	Lu\Ju	17a19	Girotti Jorge Alberto 	R	Ju	 
+8	Lu\Ju	19a21	Campillay Rodrigo Nicolas 	R	Ju	 
+Cát:Prof Interino Asociado a/C. RAPISARDA CARLOS ALBERTO 
+ Cordoba 
+9	Lu\Ju	17a19	Santaguida Julian 	R	Ju	 
+10	Ma\Vi	17a19	Fernandez Menta Adriana Claudi 	R	Vi	 
+11	Lu\Ju	19a21	Lopez Marianela 	R	Ju	 
+12	Lu\Mi	19a21	Tuñez Fernando Adrian 	R	Lu	 
+13	Ma\Vi	19a21	Perez Jorge Ezequiel 	R	Vi	 
+Cát:Prof Interino Asociado a/C. TORRANO ANGEL IRENEO 
+ Cordoba 
+14	Lu\Ju	19a21	Torrano Angel Ireneo -Fullone Jorge Alfredo 	R	Lu	 
+Cát:Prof Interino Asociado a/C. ZAGLUL CARLOS SALOMON 
+ Cordoba 
+15	Ma\Vi	07a09	Lucio Luis Alberto 	R	Vi	 
+16	Ma\Vi	11a13	Zaglul Carlos Salomon -Stolkiner Diego Adrian 	R	Vi	 
+17	Lu\Ju	15a17	Lopez Cintia Marcela 	R	Ju	 
+18	Lu\Ju	21a23	Ail Gabriel Marcelo 	R	Lu	 
+ CONTAB. GUBERNAMENTAL Y CONTROL GEST. (1374) 
+Cát:Prof Regular Asociado a/C. COWES LUIS ALBERTO 
+ Cordoba 
+1	Ma\Vi	09a11	Sgarbi Carlos Fabian 	R	 	 
+2	Lu\Ju	19a21	Cowes Luis Alberto 	R	Ju	 
+3	Ma\Vi	19a21	Harbin Abelardo Gregorio 	R	Vi	 
+Cát:Prof Titular Regular GIUSTI JOSE LUIS 
+ Cordoba 
+4	Lu\Ju	09a11	Coletta Mariela Giselle -Rutigliano Alejandra Paola 	R	Lu	ia
+5	Ma\Vi	17a19	Alessandro Carolina Veronica 	R	Vi	ia
+6	Lu\Ju	19a21	Ruiz Matias Adrian 	R	Lu	ia
+ CONTABILIDAD FINANCIERA SUPERIOR (1798) 
+Cát:Prof Regular Asociado a/C. GARCIA FRONTI INES MERCEDES 
+ Cordoba 
+1	Ma\Vi	19a21	Garcia Fronti Ines Mercedes -Ferreiro Mauro Fabian 	R	 	 
+ DERECHO 
+ INSTITUCIONES DE DHO. PUBLICO (251) 
+Cát:Prof Titular Regular CARNOTA WALTER 
+ Cordoba 
+85	Vi	17a19	Carnota Walter -Marcucci Maximiliano 	M	 	 
+ Paternal 
+1	Lu\Ju	07a09	Lopez Gustavo Fernando 	R	 	 
+2	Lu\Ju	07a09	Villaggi Carlos 	R	 	 
+3	Ma\Vi	11a13	Ali Nilda Ester 	R	 	 
+70	Ju	15a17	Calandrino Guillermo Augusto 	D	 	 
+4	Lu\Ju	15a17	Gallotti Aldo Claudio 	R	 	 
+ Pilar 
+5	Ma\Vi	09a11	Gui Leonardo Abel 	R	Ma	 
+6	Lu\Ju	17a19	Gaig Alberto 	R	 	 
+ Virtual 
+99	Mi	19a21	 	V	Mi	 
+Cát:Prof Interino Asociado a/C. LONIGRO FELIX VICENTE 
+ Avellaneda 
+7	Ma\Vi	15a17	Perez Andrea Mercedes 	R	 	 
+ San Isidro 
+8	Ma\Vi	09a11	Julia Margarita 	R	 	 
+9	Lu\Ju	11a13	Lonigro Felix Vicente 	R	 	 
+10	Ma\Vi	15a17	Milo Silvana 	R	 	 
+11	Lu\Ju	17a19	Moises Trujillo Maria Ines 	R	 	 
+ Virtual 
+98	Ma	15a17	 	V	Ma	 
+Cát:Prof Interino Asociado a/C. LOPEZ ALFONSIN MARCELO 
+ Avellaneda 
+12	Lu\Ju	19a21	Bujan Javier Alejandro 	R	Ju	 
+ Paternal 
+13	Lu\Ju	17a19	Rama Marcela Silvia 	R	Lu	 
+14	Lu\Ju	17a19	Lema Gonzalo Javier 	R	Ju	 
+15	Ma\Vi	17a19	Gusman Alfredo Silverio 	R	Ma	 
+16	Ma\Vi	17a19	Trueba Manuel Rufino 	R	 	 
+17	Lu\Ju	21a23	Alonsoperez Gabriela Marta 	R	Ju	 
+ San Isidro 
+18	Lu\Ju	09a11	Krivocapich German 	R	Lu	 
+Cát:Prof  RAMOS PADILLA ALEJO 
+ Avellaneda 
+19	Ma\Vi	17a19	Ramos Padilla Alejo -Carballo Federico Hernan 	R	Ma	 
+20	Ma\Vi	19a21	Ramos Padilla Alejo -Tomaghelli Maria Agustina 	R	Ma	 
+Cát:Prof Interino Asociado a/C. TORCASIO CARLOS HORACIO 
+ Avellaneda 
+21	Ma\Vi	09a11	Piscitello Mercedes Liliana 	R	Vi	 
+22	Lu\Ju	17a19	Fernandez Bonato Fernando Matias 	R	Ju	 
+ Paternal 
+23	Lu\Ju	19a21	Torcasio Carlos Horacio -Silva Elizabeth Cecilia 	R	Ju	 
+ INSTITUCIONES DE DCHO. PRIVADO (273) 
+Cát:Prof  CURA JOSE MARIA 
+ Cordoba 
+1	Lu\Ju	11a13	Cura Jose Maria -Irigoyen Horacio Augusto 	R	 	 
+ Obs. Mat. 273/1: CATEDRA DE HONOR 
+Cát:Prof  NEGRI CARLOS MARIA 
+ Cordoba 
+2	Lu\Ju	19a21	Negri Carlos Maria -Graffigna Jorge Omar 	R	 	 
+ Obs. Mat. 273/2: CATEDRA DE HONOR 
+Cát:Prof Interino Asociado a/C. RECIO JUAN IGNACIO 
+ Cordoba 
+3	Ma\Vi	07a09	Capano Angela Maria 	R	Vi	 
+4	Ma\Vi	09a11	Carrasco Juan Ignacio 	R	Vi	 
+5	Ma\Vi	17a19	Maldonado Maria Florencia 	R	Vi	ia
+6	Ma\Vi	19a21	Lopez Del Carril Gonzalo 	R	Vi	 
+7	Ma\Vi	19a21	Capua Juan Manuel 	R	Ma	ia
+8	Ma\Vi	19a21	Llebara Hernan Jorge 	R	Vi	ia
+9	Ma\Vi	21a23	Recio Juan Ignacio 	R	Vi	ia
+ Virtual 
+99	Mi	19a21	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. SALVOCHEA CARLOS RAMIRO 
+ Cordoba 
+10	Lu\Ju	09a11	Annone Maria Elisa 	R	 	 
+11	Lu\Ju	09a11	Diaz Funes Jose Nicolas 	R	 	 
+13	Ma\Vi	09a11	Salvochea Carlos Ramiro -Rubino Mercedes Guadalupe 	R	Vi	 
+12	Ma\Vi	11a13	Videla Sebastian Leandro 	R	Vi	 
+14	Ma\Vi	13a15	Palmieri Gabriela Fernanda 	R	 	 
+15	Lu\Ju	15a17	Lopreiato Maria Luz 	R	Ju	 
+16	Lu\Ju	17a19	Carreira Gonzalez Guillermo 	R	Ju	 
+17	Ma\Vi	19a21	Garre Raul Alejandro 	R	Vi	 
+18	Ma\Vi	21a23	Garcia Villalonga Julio Cesar 	R	Vi	 
+ Virtual 
+98	Lu	15a17	 	V	Lu	 
+ DERECHO DEL TRAB. Y L/SEG.SOCIAL (354) 
+Cát:Prof Titular Regular MAZA MIGUEL ANGEL 
+ Avellaneda 
+1	Lu\Ju	11a13	Ledesma Iturbide Diego Marcelo 	R	 	 
+2	Ma\Vi	15a17	Garberi Cecilia 	R	Vi	 
+ Cordoba 
+3	Lu\Ju	13a15	Sudera Jose Alejandro 	R	 	 
+4	Ma\Vi	17a19	Cereseto Patricia Marta 	R	 	 
+5	Lu\Ju	21a23	Ronchetti Federico Pablo Eugen 	R	Ju	 
+6	Ma\Vi	21a23	Bloise Leonardo Gabriel 	R	Vi	 
+7	Ma\Vi	21a23	Nagata Carlos Javier 	R	Vi	 
+ San Isidro 
+8	Lu\Ju	17a19	Dall Armelina Alejandro Carlos 	R	Lu	 
+9	Ma\Vi	21a23	Favret Carlos Maximiliano 	R	 	 
+ Virtual 
+99	Ma	15a17	 	V	Ma	 
+Cát:Prof Titular Regular SARDEGNA PAULA COSTANZA 
+ Cordoba 
+10	Lu\Ju	07a09	Pietrani Luis Andres 	R	 	 
+11	Ma\Vi	09a11	Di Stefano Marcelo Carlos 	R	 	 
+12	Lu\Ju	11a13	Seinhart Jorge Ricardo 	R	 	 
+85	Ma	13a15	Sardegna Paula Costanza -Sardegna Miguel Angel Aldo 	M	 	 
+13	Lu\Ju	15a17	Pinto Varela Silvia Esther 	R	 	 
+14	Lu\Ju	17a19	Lanzavechia Gabriel Eduardo 	R	 	 
+15	Ma\Vi	17a19	Grisolia Julio Armando 	R	 	 
+16	Ma\Vi	19a21	Gasquet Pablo Alberto 	R	 	 
+ DERECHO EMPRESARIAL (462) 
+Cát:Prof Interino Asociado a/C. SAL SEBASTIAN 
+ Avellaneda 
+1	Ma\Vi	09a11	Sal Sebastian 	R	Ma	 
+2	Lu\Ju	19a21	Rohr Ignacio Ariel 	R	Ju	 
+3	Ma\Vi	19a21	Miño Sotero Arnold Roberto Carlos 	R	Ma	 
+ Paternal 
+4	Lu\Ju	09a11	Salinas Salome 	R	Ju	 
+5	Lu\Ju	17a19	Garre Malena 	R	Lu	 
+6	Lu\Ju	19a21	Gallino Juan Manuel 	R	Ju	 
+7	Ma\Vi	19a21	Sanchez Moreno Maria Julieta 	R	Vi	 
+ Pilar 
+8	Ma\Vi	09a11	Nuñez Jorge Daniel 	R	Vi	 
+ San Isidro 
+9	Lu\Ju	09a11	Cura Olivera Maria Magdalena 	R	Ju	 
+10	Lu\Ju	17a19	Cendali Walter Ricardo 	R	Ju	 
+11	Ma\Vi	19a21	Maqueda Bernardo 	R	Vi	 
+ Virtual 
+99	Ma	09a11	 	V	Ma	 
+98	Ju	17a19	 	V	Ju	 
+Cát:Prof  SALVOCHEA CARLOS RAMIRO 
+ Cordoba 
+12	Lu\Ju	13a15	Garre Raul Alejandro 	R	 	 
+13	Ma\Vi	15a17	Garcia Villalonga Julio Cesar 	R	 	 
+ DERECHO FINANC., SEGUROS Y SEGUR. SOC. (603) 
+Cát:Prof  DEPARTAMENTO DE DERECHO 
+ Cordoba 
+1	Ma\Vi	09a11	Frega Jorge Omar 	R	Vi	 
+2	Ma\Vi	11a13	Frega Jorge Omar 	R	Vi	 
+ DERECHO PROCESAL RECURSOS (709) 
+Cát:Prof Interino Asociado a/C. RECIO JUAN IGNACIO 
+ Cordoba 
+1	Ma\Vi	17a19	Recio Juan Ignacio 	R	Vi	 
+ DERECHO ECONOMICO (1359) 
+Cát:Prof  LOPEZ DEL CARRIL GONZALO 
+ Avellaneda 
+1	Lu\Ju	07a09	Veyssiere Gonzalo Hector 	R	Ju	 
+2	Lu\Ju	21a23	Lanza Usatorre Maximo Miguel 	R	Lu	 
+ Cordoba 
+3	Ma\Vi	07a09	Frieiro Lorena Veronica 	R	 	 
+4	Lu\Ju	17a19	Maldonado Mario Oscar 	R	 	 
+5	Ma\Vi	19a21	Prada Errecart Agustin 	R	Vi	 
+Cát:Prof Titular Regular LOVECE GRACIELA ISABEL 
+ Cordoba 
+6	Ma\Vi	07a09	Muzio Alejandra Esther 	R	Vi	 
+7	Lu\Ju	09a11	Acebal Marcela Maria Eulalia 	R	Ju	 
+8	Lu\Ju	11a13	Rodriguez Alonso Virginia Mariana 	R	Ju	 
+9	Ma\Vi	13a15	Lovece Graciela Isabel -Blanco Valeria Bettina 	R	Vi	 
+10	Lu\Ju	15a17	Gonzalez Maria Victoria 	R	Ju	 
+11	Ma\Vi	21a23	Herrera Sabrina Solange 	R	Vi	 
+ Pilar 
+12	Lu\Ju	17a19	Ceriani Patricia Paola 	R	Ju	 
+ Virtual 
+99	Mi	15a17	 	V	Mi	 
+98	Mi	21a23	 	V	Mi	 
+Cát:Prof Interino Asociado a/C. SCOLARICI GABRIELA MARIEL 
+ Cordoba 
+13	Ma\Vi	09a11	Piantanida Luis Enrique 	R	 	 
+14	Lu\Ju	13a15	Fiorani Eduardo Andres 	R	Lu	 
+15	Ma\Vi	17a19	Capua Juan Manuel 	R	Ma	 
+16	Ma\Vi	19a21	Gonzalez Rogelio Cesar 	R	 	 
+17	Ma\Vi	21a23	Cores Braian Emiliano 	R	Vi	 
+ San Isidro 
+18	Lu\Ju	17a19	Ferreira Roberto Hernan 	R	Lu	 
+19	Ma\Vi	21a23	Novara Fernando Gabriel 	R	 	 
+ Virtual 
+97	Mi	17a19	 	V	Mi	 
+ DERECHO CREDITICIO,BURSATIL E INSOLV. (1360) 
+Cát:Prof   DEPARTAMENTO DE DERECHO 
+ Cordoba 
+1	Lu\Ju	07a09	Romei Maximiliano Lucas 	R	Ju	 
+2	Ma\Vi	07a09	Silbert Mariano 	R	Vi	 
+3	Ma\Vi	07a09	Torres Alejo Santiago Jose 	R	Vi	 
+4	Lu\Ju	09a11	Fernandez Matias Ariel 	R	Ju	 
+5	Lu\Ju	11a13	Mozzi German Diego 	R	 	 
+6	Lu\Ju	13a15	Gomez Meana Silvia Isabel 	R	Ju	 
+7	Ma\Vi	15a17	Piatti Hector Horacio 	R	Ma	 
+8	Lu\Ju	17a19	Galli Claudio Alberto 	R	Ju	 
+9	Ma\Vi	17a19	Gacio Marisa 	R	Vi	 
+10	Ma\Vi	19a21	Pesaresi Guillermo Mario 	R	Vi	 
+11	Ma\Vi	19a21	Papa Hernan Diego 	R	Vi	 
+12	Ma\Vi	19a21	Perillo Fernando Javier 	R	Vi	 
+13	Lu\Ju	21a23	Blanco Pablo Javier 	R	Lu	 
+14	Lu\Ju	21a23	Villoldo Juan Marcelo 	R	Ju	 
+15	Ma\Vi	21a23	Meijide Castro Marina Paola 	R	Vi	 
+ Pilar 
+16	Ma\Vi	18a20	Ulas Maria Gabriela 	R	Vi	 
+ San Isidro 
+17	Ma\Vi	09a11	Silbert Mariano 	R	Ma	 
+18	Lu\Ju	19a21	Servidio Patricia Andrea 	R	Ju	 
+ Virtual 
+98	Sa	09a11	 	V	Sa	 
+99	Ma	15a17	 	V	Ma	 
+ DERECHO INFORMATICO I (1603) 
+Cát:Prof   LOPEZ DEL CARRIL GONZALO 
+ Cordoba 
+1	Ma\Vi	07a09	Elias Miguel Sumer 	R	Vi	 
+2	Ma\Vi	17a19	Elias Miguel Sumer 	R	Vi	 
+ DERECHO INFORMATICO II (1604) 
+Cát:Prof  LOPEZ DEL CARRIL GONZALO 
+ Cordoba 
+1	Ma\Vi\Sa	09a11	Elias Miguel Sumer 	R	Vi	 
+2	Lu\Mi\Ju	17a19	Varennes Flavio Oscar 	R	Ju	 
+ ECONOMIA Y DELITO (1708) 
+Cát:Prof Titular Regular YADAROLA PABLO 
+ Cordoba 
+1	Lu\Ju	19a21	Yadarola Pablo 	R	 	 
+ ECONOMIA 
+ MICROECONOMIA I (250) 
+Cát:Prof Titular Regular APELLA IGNACIO RAUL 
+ Avellaneda 
+1	Mi\Sa	07a09	Estevez Eduardo Ramon 	R	 	 
+2	Lu\Ju	09a11	Iacobuzio Antonio 	R	 	 
+3	Ma\Vi	09a11	Ruiz Julio Argentino 	R	Vi	 
+4	Lu\Ju	11a13	Saccarello Juan Alberto 	R	Lu	 
+5	Lu\Ju	19a21	Trussi Hector Jose 	R	Ju	 
+ Paternal 
+6	Ma\Vi	09a11	Comelatto Pablo Abel 	R	Ma	 
+7	Lu\Ju	19a21	Vilardebo Laura Lilian 	R	Lu	 
+8	Ma\Vi	19a21	Gambetta Gabriel Fernando 	R	 	 
+ San Isidro 
+9	Lu\Ju	19a21	Miras Dario Sebastian 	R	 	 
+10	Ma\Vi	19a21	Neyra Hernan Eduardo 	R	 	 
+ Virtual 
+99	Mi	09a11	 	V	Mi	 
+98	Mi	17a19	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. DI PELINO ANDRES ERNESTO 
+ Cordoba 
+11	Ma\Vi	15a17	Gesualdo Gustavo Alfredo 	R	 	 
+ Paternal 
+12	Lu\Ju	09a11	Gonzales Ester Gloria 	R	Lu	 
+13	Ma\Vi	09a11	Langer Ariel Alberto 	R	Vi	 
+14	Ma\Vi	09a11	Gomez Alejandro 	R	Vi	 
+15	Mi\Sa	09a11	Mateu Silvana 	R	Mi	 
+16	Lu\Ju	19a21	Palacios Walter Javier 	R	Ju	 
+17	Ma\Vi	19a21	Paredes Alejandro Diego 	R	 	 
+18	Ma\Vi	21a23	Revah Jose Luis 	R	Vi	 
+ Pilar 
+19	Lu\Ju	07a09	Lopez Warr Rodolfo 	R	Ju	 
+20	Lu\Ju	11a13	Folgar Cristian Alberto 	R	Ju	 
+ San Isidro 
+21	Lu\Ju	07a09	Einstoss Tinto Alejandro German 	R	Ju	 
+22	Lu\Ju	19a21	Folgar Cristian Alberto 	R	Ju	 
+23	Ma\Vi	21a23	Scalise Leonardo Jose 	R	 	 
+ Virtual 
+97	Vi	09a11	 	V	Vi	 
+ MACROECONOMIA I (262) 
+Cát:Prof   DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Pastor Joaquin Oscar 	R	Mi	 
+2	Lu\Mi\Ju	09a11	Krysa Ariel David 	R	 	 
+3	Lu\Mi\Ju	09a11	Rodriguez Repeti Juan Manuel 	R	 	 
+4	Lu\Mi\Ju	11a13	Di Lalla Daniela Anahi 	R	Lu	 
+Cát:Prof Titular Regular ZACK GUIDO 
+ Avellaneda 
+5	Lu\Mi\Ju	09a11	Michelena Gabriel Nicolas 	R	Mi	 
+ Paternal 
+6	Lu\Mi\Ju	07a09	Cerdan Manuel 	R	Lu	 
+7	Lu\Mi\Ju	11a13	Rossignolo Dario Alejandro 	R	Mi	 
+8	Mi\Vi\Sa	17a19  Sa09a11	Gasparini Cintia Natalia 	R	Sa	 
+9	Ma\Mi\Vi	19a21	Bargados Ayelen Carmen 	R	Vi	 
+ San Isidro 
+10	Lu\Ju	11a13	Fares Florencia Melisa 	R	Ju	 
+ MACROECONOMIA Y POLIT. ECONOMICA (278) 
+Cát:Prof Regular Asociado a/C. BARREÑA MARIANA GLORIA 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Gesualdo Gustavo Alfredo 	R	Lu	ia
+2	Ma\Mi\Vi	07a09	Ramirez Walter Andres 	R	Mi	 
+3	Lu\Mi\Ju	17a19	Wiñazky Marcelo Rodrigo 	R	Mi	 
+4	Ma\Vi\Sa	19a21  Sa11a13	Cerruti Reverdito Juan Alfredo 	R	Sa	ia
+5	Lu\Mi\Ju	21a23	Farina Joaquin 	R	Ju	 
+ Paternal 
+6	Ma\Vi\Sa	17a19  Sa09a11	Moreyra Victor Alberto 	R	Sa	 
+ Pilar 
+7	Lu\Mi\Ju	09a11	Jimenez Carlos Antonio 	R	Mi	 
+ Virtual 
+99	Mi	09a11	 	V	Mi	 
+98	Mi	19a21	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. COUTO LUIS FERNANDO 
+ Cordoba 
+8	Lu\Mi\Ju	09a11	Couto Luis Fernando 	R	Ju	 
+9	Lu\Mi\Ju	17a19	Pasart Rodrigo 	R	 	 
+10	Lu\Mi\Ju	19a21	Juretic Iris Anahi 	R	Ju	 
+11	Ma\Vi\Sa	19a21  Sa11a13	Tombolini Matias Raul 	R	 	 
+ Pilar 
+12	Lu\Mi\Ju	17a19	Rojas Roberto Walter 	R	Ju	 
+ San Isidro 
+13	Lu\Mi\Ju	21a23	Agostinelli Guido Miguel 	R	Mi	 
+ Virtual 
+97	Mi	13a15	 	V	Mi	 
+Cát:Prof Titular Interino ROSSIGNOLO DARIO ALEJANDRO 
+ Avellaneda 
+14	Ma\Vi\Sa	09a11	Jerez Patricia Gladys 	R	Vi	 
+ Cordoba 
+15	Ma\Vi\Sa	17a19  Sa11a13	Rossignolo Dario Alejandro 	R	Vi	 
+16	Lu\Mi\Ju	19a21	Perilli Gustavo Fabian 	R	Ju	 
+ San Isidro 
+17	Ma\Vi\Sa	19a21  Sa13a15	D Attellis Noguera Juan Agustin 	R	 	 
+Cát:Prof   SINGERMAN PABLO ALEJANDRO 
+ Cordoba 
+18	Lu\Mi\Ju	09a11	Singerman Pablo Alejandro 	R	Mi	 
+ MACROECONOMIA II (283) 
+Cát:Prof Titular Interino ELOSEGUI PEDRO LUIS 
+ Cordoba 
+1	Ma\Vi\Sa	17a19  Sa11a13	Elosegui Pedro Luis 	R	Sa	 
+Cát:Prof Titular Interino RAPETTI MARTIN GERVASIO 
+ Cordoba 
+2	Lu\Mi\Ju	07a09	Libman Emiliano 	R	Ju	 
+3	Ma\Vi\Sa	11a13	Rapetti Martin Gervasio 	R	 	 
+4	Lu\Mi\Ju	17a19	Zack Guido 	R	Lu	 
+5	Lu\Mi\Ju	19a21	Pierri Damian Rene 	R	Mi	 
+ MICROECONOMIA II (286) 
+Cát:Prof Titular Regular AROMI JOSE DANIEL 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Pascuini Paulo Daniel 	R	 	 
+2	Lu\Mi\Ju	11a13	Aromi Jose Daniel 	R	 	 
+3	Lu\Mi\Ju	15a17	Ojeda Maria Laura 	R	 	 
+4	Lu\Mi\Ju	17a19	Acosta Jorge Alan 	R	Mi	 
+Cát:Prof Titular Regular FERRARO JIMENA SOLEDAD 
+ Cordoba 
+5	Ma\Vi\Sa	11a13	Rigoni Camila Belen 	R	Sa	 
+ MICROECONOMIA PARA ECONOMISTAS (291) 
+Cát:Prof Titular Interino PASCUINI PAULO DANIEL 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Llada Martin 	R	 	 
+2	Lu\Mi\Ju	11a13	Bonel Maria Paula 	R	 	 
+3	Ma\Mi\Vi	13a15	Jack Pablo 	R	 	 
+4	Lu\Mi\Ju	17a19	Mercatante Juan Ignacio 	R	 	 
+Cát:Prof Titular Regular PETRECOLLA DIEGO 
+ Cordoba 
+5	Lu\Mi\Ju	09a11	Romero Gomez Exequiel 	R	Ju	 
+6	Lu\Mi\Ju	11a13	Fajfar Pablo Francisco 	R	Mi	 
+7	Lu\Mi\Ju	19a21	Apella Ignacio Raul -Berridi Juan Martin 	R	 	 
+ CIENCIA DE DATOS PARA ECON. Y NEG. (520) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	09a11	Sidicaro Nicolas Leonardo 	R	Vi	 
+2	Ma\Vi	11a13	Semeshenko Viktoriya -De Raco Sergio Andres 	R	 	 
+3	Lu\Ju	19a21	Mastelli Franco 	R	Ju	 
+ ECONOMIA Y DERECHO CORPORATIVO (523) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	09a11	Pittet Maria Jose 	R	Vi	 
+ FINANZAS CORPORATIVAS (524) 
+Cát:Prof  VAISMAN JOEL 
+ Cordoba 
+1	Ma\Vi	19a21	Vaisman Joel 	R	 	 
+ TOPICOS DE ECONOMIA DIGITAL (525) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	17a19	Coll Agustin Julian 	R	Vi	ia
+ TOPIC.DE HIST.PEN.ECON.Y EPI.DE LA ECON. (526) 
+Cát:Prof Interino Asociado a/C. HABERFELD LEANDRO ERNESTO 
+ Cordoba 
+1	Lu\Ju	19a21	Arana Mariano 	R	Lu	 
+ Obs. Mat. 526/1: Se centra en la Historia del Pensamiento Económico Argentino y Latinoamericano. 
+ BIG DATA Y MACHINE LEARNING (527) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	17a19	Mauvecin Mario Alejandro 	R	Vi	 
+ EPIST. E HIST. DEL PENSAMIENTO ECON. (545) 
+Cát:Prof Interino Asociado a/C. HABERFELD LEANDRO ERNESTO 
+ Cordoba 
+1	Ma\Vi	09a11	Benchimol Pablo Sebastian 	R	 	 
+2	Lu\Ju	11a13	Pique Maria Del Pilar 	R	 	 
+3	Ma\Vi	17a19	Haberfeld Leandro Ernesto 	R	 	 
+Cát:Prof Titular Interino WEISMAN DIEGO MAURICIO 
+ Cordoba 
+4	Lu\Ju	07a09	Carrino Ivan Carlos 	R	 	 
+5	Lu\Ju	11a13	Berneman Nicolas 	R	 	 
+6	Ma\Vi	13a15	Weisman Diego Mauricio 	R	 	 
+7	Lu\Ju	17a19	Marconi Fermin 	R	 	 
+ ESTRUCT. Y POL. ECONOM. Y SOC. EN ARG. (547) 
+Cát:Prof Titular Interino MAURIZIO ROXANA DEL LUJAN 
+ Cordoba 
+1	Lu\Ju	09a11	Maurizio Roxana Del Lujan -Kulfas Matias Sebastian 	R	 	 
+2	Ma\Vi	11a13	Lachman Jeremias -Fernandez Ana Laura 	R	 	 
+3	Lu\Ju	17a19	Español Paula Irene 	R	 	 
+4	Lu\Ju	19a21	Nieto Michel Daniel Ricardo 	R	 	 
+ DINERO Y BANCOS (548) 
+Cát:Prof Titular Interino KATZ SEBASTIAN 
+ Cordoba 
+1	Ma\Vi	09a11	Katz Sebastian -Elias Diego Sebastian 	R	 	 
+2	Ma\Vi	17a19	Lorenzo Guido 	R	 	 
+3	Lu\Ju	19a21	Dal Bianco Marcos Jose 	R	 	 
+4	Lu\Ju	19a21	Simpson Lucio Mariano 	R	 	 
+5	Lu\Ju	19a21	Basco Emiliano 	R	 	 
+ ECONOMIA FINANCIERA (549) 
+Cát:Prof Titular Interino GOMEZ JUAN FRANCISCO 
+ Cordoba 
+1	Lu\Ju	09a11	Toriano Leandro Daniel 	R	Lu	 
+2	Ma\Vi	09a11	Do Pazo Glave Ailin Daiana 	R	 	 
+3	Ma\Vi	17a19	Vaisman Joel 	R	 	 
+4	Lu\Ju	19a21	Milia Daniel Alberto 	R	Ju	 
+ CRECIMIENTO ECONOMICO (554) 
+Cát:Prof Titular Regular KEIFMAN SAUL NESTOR 
+ Cordoba 
+1	Lu\Ju	09a11	Keifman Saul Nestor -Herrero Diego 	R	 	 
+2	Ma\Vi	09a11	Couto Luis Fernando -Jack Pablo 	R	 	 
+3	Lu\Ju	19a21	Grandes Martin 	R	 	 
+4	Ma\Vi	19a21	Coremberg Ariel Alberto 	R	Vi	 
+ ORGANIZACION INDUSTRIAL (555) 
+Cát:Prof Titular Regular ARZA VALERIA LUCIANA 
+ Cordoba 
+1	Lu\Ju	09a11	Arza Valeria Luciana -Lopez Emanuel 	R	 	 
+Cát:Prof Titular Interino MACEIRA DANIEL ALEJANDRO 
+ Cordoba 
+2	Ma\Vi	09a11	Maceira Daniel Alejandro 	R	Vi	 
+Cát:Prof Titular Interino PETRECOLLA DIEGO 
+ Cordoba 
+3	Lu\Ju	17a19	Petrecolla Diego -Romero Gomez Exequiel 	R	Ju	 
+4	Ma\Vi	17a19	Covelli Maria Paula 	R	 	 
+ FINANZAS PUBLICAS (556) 
+Cát:Prof Titular Interino CURCIO JAVIER ADRIAN 
+ Cordoba 
+1	Lu\Ju	09a11	Costa Augusto Eduardo 	R	 	 
+2	Ma\Vi	09a11	Goldschmit Ariela 	R	 	 
+3	Lu\Ju	17a19	Borenstein Andres 	R	 	 
+4	Ma\Vi	17a19	Curcio Javier Adrian 	R	Vi	 
+5	Ma\Vi	19a21	Rossignolo Dario Alejandro 	R	Vi	 
+ ECONOMIA INTERNACIONAL (558) 
+Cát:Prof Titular Regular HALLAK JUAN CARLOS 
+ Cordoba 
+1	Lu\Ju	09a11	Bernini Federico Gaston 	R	 	 
+2	Lu\Ju	11a13	Diaz De Astarloa Bernardo 	R	 	 
+3	Ma\Vi	17a19	Ramos Maria Priscila 	R	 	 
+4	Lu\Ju	19a21	Soltz Hernan Javier 	R	 	 
+ DESARROLLO ECONOMICO (559) 
+Cát:Prof Titular Regular LOPEZ ANDRES FLAVIO 
+ Cordoba 
+1	Lu\Ju	09a11	Ronconi Lucas 	R	Ju	 
+2	Lu\Ju	09a11	Maccio Jimena Marina 	R	Lu	 
+3	Ma\Vi	17a19	Gonzalez Juan Pablo 	R	 	 
+4	Lu\Ju	19a21	Lopez Andres Flavio 	R	 	 
+ Obs. Mat. 559/4: Se recomienda tener aprobadas las asig. 554 y 558. 
+ ECONOMIA DE LA ENERGIA (745) 
+Cát:Prof Interino Asociado a/C. DI PELINO ANDRES ERNESTO 
+ Cordoba 
+1	Ma\Vi	09a11	Einstoss Tinto Alejandro German 	R	Vi	 
+ Obs. Mat. 745/1: Se centra en regulación económica de los servicios públicos. 
+ GESTION DE LA ECONOMIA SOCIAL (764) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Lu\Ju	13a15	Mangas Rodolfo Antonio 	R	Ju	 
+ ECONOMIA MARXISTA (767) 
+Cát:Prof Interino Asociado a/C. HABERFELD LEANDRO ERNESTO 
+ Cordoba 
+1	Ma\Vi	17a19	Gonilski Pacin Martin Joel 	R	 	 
+ TOPICOS DE MACROECONOMIA (779) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Lu\Ju	09a11	D Amato Laura Ines 	R	 	 
+ Obs. Mat. 779/1: El foco de la materia será en "Tópicos de Economía y Política Monetaria". 
+ ECONOMIA AGROPECUARIA (780) 
+Cát:Prof Consulto BISANG ROBERTO OSCAR 
+ Cordoba 
+1	Ma\Vi	17a19	Vicentin Masaro Jimena 	R	Vi	 
+ ECONOMIA LABORAL (782) 
+Cát:Prof Titular Interino MAURIZIO ROXANA DEL LUJAN 
+ Cordoba 
+1	Ma\Vi	09a11	Maurizio Roxana Del Lujan 	R	 	 
+ ECONOMIA REGIONAL Y URBANA (1287) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Lu\Ju	19a21	Abriata Bruno Dante 	R	Lu	 
+ SEMINARIO DE INTEGRACION (1562) 
+Cát:Prof Titular Interino WEISMAN DIEGO MAURICIO 
+ Cordoba 
+1	Ma	17a19	Carciofi Ignacio Nicolas 	R	 	 
+2	Lu	19a21	Pustilnik Ruth Irene 	R	 	 
+ MODELOS ECONOMICOS DE SIMULACION (1718) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	15a17	Ramos Maria Priscila -Romero Carlos Adrian 	R	 	 
+ CUENTAS NACIONALES E INDICAD. ECONOMICOS (1720) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Ma\Vi	09a11	Cavallari Silvana Marta -Monteforte Bracamonte Anibal Ezequiel 	R	 	 
+2	Lu\Ju	13a15	Gallo Mirta Paulina -Perez Regueira Guadalupe 	R	 	 
+ ECONOMIA DEL COMPORTAMIENTO (1721) 
+Cát:Prof  MIRA LLAMBI PABLO JAVIER 
+ Cordoba 
+1	Ma\Vi	17a19	Mira Llambi Pablo Javier -Fajfar Pablo Francisco 	R	Vi	 
+ ECONOMIA DE LA PROTECCION SOCIAL (1724) 
+Cát:Prof  DEPARTAMENTO DE ECONOMIA 
+ Cordoba 
+1	Lu\Ju	19a21	Goldschmit Ariela -Alperovich Joaquin Diego 	R	Ju	 
+ HUMANIDADES 
+ HISTORIA EC. Y SOCIAL ARGENTINA (249) 
+Cát:Prof Interino Asociado a/C. BANFI JOSE MARIA 
+ Avellaneda 
+1	Lu\Ju	11a13	Andrino Juan 	R	 	 
+ Paternal 
+2	Ma\Vi	13a15	Banfi Jose Maria -Gonzalez Bollo Hernan Gustavo 	R	Vi	 
+Cát:Prof Interino Asociado a/C. MUSACCHIO ANDRES 
+ San Isidro 
+3	Mi\Sa	19a21  Sa11a13	Musacchio Andres -Mariñansky Martin Pablo 	R	Sa	 
+ Virtual 
+99	Mi	15a17	 	V	Mi	 
+98	Vi	17a19	 	V	Vi	 
+Cát:Prof   OSSONA JORGE LUIS 
+ Avellaneda 
+4	Lu\Ju	19a21	Ossona Jorge Luis 	R	Ju	 
+ Cordoba 
+5	Ma\Vi	13a15	Pampin Graciela Susana 	R	 	 
+ Paternal 
+6	Lu\Ju	09a11	Palacio Silvana Priscila 	R	Ju	 
+7	Ma\Vi	09a11	Barry Viviana Cecilia 	R	Vi	 
+8	Ma\Vi	17a19	Chiarini Sebastian Roberto 	R	Ma	 
+ Pilar 
+9	Lu\Ju	11a13	Ramirez Diego Martin 	R	Ju	 
+10	Lu\Ju	15a17	Bocca Natalia Vanesa 	R	Ju	 
+ Virtual 
+97	Mi	11a13	 	V	Mi	 
+Cát:Prof Emérito RAPOPORT MARIO DANIEL 
+ Cordoba 
+85	Ju	15a17	Rapoport Mario Daniel -Brenta Noemi Liliana 	M	 	 
+Cát:Prof Interino Asociado a/C. ROMAN VIVIANA 
+ Avellaneda 
+11	Ma\Vi	17a19	Pineau Agustin 	R	Vi	ia
+ Cordoba 
+12	Ma\Vi	15a17	Roman Viviana -Comastri Hernan 	R	Vi	 
+ Paternal 
+13	Lu\Ju	11a13	Jaitte Pablo 	R	 	ia
+14	Ma\Vi	21a23	Gomez Juan Lucas 	R	Vi	ia
+ San Isidro 
+15	Lu\Ju	07a09	Peruggini Oriana 	R	Lu	ia
+Cát:Prof   ROUGIER MARCELO NORBERTO 
+ San Isidro 
+16	Ma\Vi	17a19	Sowter Leandro 	R	Ma	 
+ Virtual 
+96	Mi	09a11	 	V	Mi	 
+Cát:Prof Interino Asociado a/C. VOLKIND PABLO 
+ Avellaneda 
+17	Ma\Vi	07a09	Fernandez Diego Ariel 	R	Vi	 
+18	Ma\Vi	09a11	Sofia Ana Laura 	R	Vi	 
+19	Lu\Ju	17a19	Villulla Juan Manuel 	R	 	 
+ Paternal 
+20	Ma\Vi	11a13	Lopez Cantera Mercedes Fernanda 	R	 	 
+21	Lu\Ju	13a15	Nassif Silvia Gabriela 	R	Lu	 
+22	Lu\Ju	15a17	Volkind Pablo -Reyes Santiago Maria Florencia 	R	 	 
+70	Mi	17a19	Ortega Lucia Emilia  	D	 	 
+ San Isidro 
+23	Lu\Ju	09a11	Cosenza Leonardo Javier 	R	 	 
+ HIST.ECONOMICA - INSTITUCIONAL ARG. (475) 
+Cát:Prof Interino Asociado a/C. ROMAN VIVIANA 
+ Avellaneda 
+1	Mi\Sa	11a13	Tearoti Silvia Aurora 	R	Sa	 
+ HIST. DE LA ECO. Y LAS POL. ECO. EN ARG. (541) 
+Cát:Prof Interino Asociado a/C. BELINI CLAUDIO FABIAN 
+ Paternal 
+1	Lu\Ju	09a11	Colombo Edgardo Hugo 	R	Lu	 
+2	Ma\Vi	09a11	Belini Claudio Fabian -Rodriguez Milagros Rocio 	R	 	 
+ San Isidro 
+3	Ma\Vi	07a09	Dethiou Cecilia 	R	 	 
+ Virtual 
+99	Ma	19a21	 	V	Ma	 
+Cát:Prof Titular Interino ROUGIER MARCELO NORBERTO 
+ Avellaneda 
+4	Ma\Vi	07a09	Mason Victor Camilo 	R	 	 
+5	Ma\Vi	09a11	Caravaca Jimena 	R	Ma	 
+ Cordoba 
+6	Ma\Vi	09a11	Kulfas Matias Sebastian -Salles Andres Gabriel 	R	 	 
+7	Ma\Vi	17a19	Poli Federico Ignacio 	R	 	 
+ Paternal 
+8	Lu\Ju	07a09	Rougier Marcelo Norberto -Bascur Omar Armando 	R	 	 
+9	Lu\Ju	19a21	Cerra Angel Adolfo 	R	 	 
+ LOGICA SIMBOLICA Y FUND. DE LA DECISION (661) 
+Cát:Prof Titular Interino SPEHRS ADRIANA RENEE 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Spehrs Adriana Renee -Cordoba Mariana 	R	 	 
+2	Ma\Vi\Sa	09a11	Valiño Valeria Sol 	R	Sa	 
+3	Lu\Mi\Ju	17a19	Fragapane Nestor Mariano 	R	Lu	 
+4	Ma\Vi\Sa	19a21  Sa11a13	Fulugonio Maria Gabriela 	R	Sa	 
+ PODER ECONÓMICO Y DERECHOS HUMANOS (721) 
+Cát:Prof Interino Asociado a/C. MEDINA ANDREA CLAUDIA 
+ Cordoba 
+1	Lu\Ju	09a11	Medina Andrea Claudia -Mandel Mario 	R	Lu	 
+2	Ma\Vi	17a19	Campana Julieta 	R	Vi	 
+3	Lu\Ju	21a23	Rua Magdalena Belen 	R	Ju	 
+ MATEMATICA 
+ ESTADISTICA (81) 
+Cát:Prof  DEPARTAMENTO DE MATEMATICA 
+ Virtual 
+99	Sa	09a11	 	V	Sa	 
+ LAB. DE MET. CUANT. APLICADOS A LA GEST. (83) 
+Cát:Prof  DEPARTAMENTO DE MATEMATICA 
+ Virtual 
+99	Ma	19a21	 	V	Ma	 
+ ESTADISTICA (248) 
+Cát:Prof  CANTONI RABOLINI NELIDA MONICA 
+ San Isidro 
+1	Lu\Mi\Ju	07a09	De Las Carreras Santiago Tomas 	R	 	 
+2	Ma\Mi\Vi	09a11	Lasanta Tito Ignacio 	R	Ma	 
+3	Lu\Mi\Ju	19a21	Lopez Alfaro Sonia Olga 	R	Lu	 
+4	Lu\Mi\Ju	21a23	Gonzalez Daniel Alejandro 	R	Ju	 
+Cát:Prof  GOGNI VALERIA 
+ Avellaneda 
+5	Ma\Mi\Vi	07a09	Merino Melanie Edith 	R	Ma	 
+6	Lu\Mi\Ju	19a21	Baygorria Roberto Carlos 	R	Lu	 
+ Cordoba 
+7	Lu\Mi\Ju	11a13	Martinez Cintia Monica 	R	Mi	 
+8	Ma\Vi\Sa	11a13	Bonadies Maria Eugenia 	R	Vi	 
+9	Lu\Mi\Ju	13a15	Martinez Cintia Monica 	R	Mi	 
+Cát:Prof Titular Interino GONZALEZ MIRTA LIDIA 
+ Avellaneda 
+70	Ma	09a11	Ghersi Liliana Beatriz 	D	 	 
+ Paternal 
+10	Ma\Mi\Vi	09a11	Grahl Alejandro Federico 	R	Ma	 
+11	Lu\Mi\Ju	11a13	Gosende Delas Maria Juliana 	R	Ju	 
+12	Ma\Mi\Vi	11a13	Grahl Alejandro Federico 	R	Ma	 
+13	Lu\Mi\Ju	13a15	Gosende Delas Maria Juliana 	R	Ju	 
+14	Lu\Mi\Ju	17a19	Wilson Fabio 	R	Ju	 
+15	Lu\Mi\Ju	19a21	Wilson Fabio 	R	Ju	 
+16	Ma\Mi\Vi	21a23	Rovner Gerardo 	R	Mi	 
+ Virtual 
+99	Vi	07a09	 	V	Vi	 
+Cát:Prof   LEPERA ANDREA FABIANA 
+ Avellaneda 
+17	Lu\Mi\Ju	07a09	Nogues Cesar Eduardo 	R	Ju	 
+18	Lu\Mi\Ju	09a11	Cantoni Rabolini Nelida Monica 	R	Mi	ia
+19	Lu\Mi\Ju	11a13	Larra Matias 	R	Mi	 
+20	Lu\Mi\Ju	17a19	Lepera Andrea Fabiana 	R	Ju	ia
+21	Lu\Mi\Ju	19a21	Nogues Cesar Eduardo 	R	Ju	 
+22	Lu\Mi\Ju	21a23	Nogues Cesar Eduardo 	R	Ju	 
+Cát:Prof   ROSSOMANDO GUSTAVO EDGARDO 
+ Pilar 
+23	Ma\Mi\Vi	09a11	Ramirez Daneri Maria Silvana 	R	Ma	 
+24	Lu\Mi\Ju	19a21	Gutierrez Ezequiel Andres 	R	 	 
+ San Isidro 
+25	Ma\Mi\Vi	07a09	Rossomando Gustavo Edgardo 	R	 	 
+26	Ma\Mi\Vi	11a13	Gutierrez Ezequiel Andres 	R	 	 
+27	Lu\Mi\Ju	17a19	Rossomando Gustavo Edgardo 	R	Lu	 
+Cát:Prof   VIETRI SILVIA 
+ Paternal 
+28	Lu\Mi\Ju	07a09	Del Duca Silvina Alejandra 	R	Ju	 
+29	Ma\Mi\Vi	07a09	Serebrisky Juan Sebastian 	R	Ma	 
+30	Lu\Mi\Ju	09a11	Kaplan Krep Christian Lionel 	R	Ju	 
+31	Ma\Vi\Sa	11a13	Kaplan Krep Christian Lionel 	R	Sa	 
+32	Lu\Ju\Sa	19a21  Sa11a13	Monti Sergio Nicolas 	R	Sa	 
+33	Lu\Mi\Ju	19a21	Portas Francisco 	R	Mi	 
+34	Ma\Mi\Vi	19a21	Monti Sergio Nicolas 	R	Vi	 
+35	Ma\Vi\Sa	19a21  Sa09a11	Testore Nicolas Orlando 	R	Sa	 
+ Virtual 
+98	Vi	09a11	 	V	Vi	 
+ CALCULO FINANCIERO (276) 
+Cát:Prof Titular Regular MAS ARIEL GUILLERMO 
+ Cordoba 
+1	Lu\Ju	07a09	Dufour Leonardo Andres 	R	Lu	 
+2	Ma\Vi	07a09	Mas Ariel Guillermo 	R	 	 
+70	Ju	09a11	Tasat Jose Mario Marcelo 	D	 	 
+3	Lu\Ju	11a13	Tasat Jose Mario Marcelo 	R	Lu	 
+ Pilar 
+4	Lu\Ju	07a09	Martucci Fernando Luis 	R	Ju	 
+ San Isidro 
+5	Lu\Ju	07a09	Pizarro Luciano 	R	 	 
+Cát:Prof   MILIA DANIEL ALBERTO 
+ Cordoba 
+6	Ma\Vi	17a19	Fregeiro Clarisa Anabella 	R	Ma	 
+7	Lu\Mi\Ju	19a21	Orellana Orlando 	R	Lu	 
+ Obs. Mat. 276/7: Clases adicionales los días miércoles. 
+8	Lu\Mi\Ju	21a23	Orellana Orlando 	R	Lu	 
+ Obs. Mat. 276/8: Clases adicionales los días miércoles. 
+ Paternal 
+9	Lu\Ju	07a09	Ricetta Gustavo Ariel 	R	Lu	 
+10	Lu\Ju	13a15	Milia Daniel Alberto 	R	Ju	 
+11	Lu\Ju	19a21	Dondero Miguel 	R	Ju	 
+ Virtual 
+99	Ju	09a11	 	V	Ju	 
+Cát:Prof Titular Regular SARTO DANIEL ANIBAL 
+ Cordoba 
+12	Lu\Ju	07a09	Barone Pascual Marcelo 	R	Lu	 
+13	Ma\Vi	07a09	Travaglini Ignacio 	R	Vi	 
+14	Lu\Ju	11a13	Flexer Damian 	R	Lu	 
+16	Ma\Vi	15a17	Palazzo Ruben Oscar 	R	Vi	 
+15	Ma\Vi	17a19	Meseri Jose Horacio 	R	Ma	 
+17	Ma\Vi	19a21	Russo Marina 	R	Vi	 
+18	Ma\Vi	19a21	Petrzela Pablo 	R	Vi	 
+19	Lu\Ju	21a23	Barone Pascual Marcelo 	R	Ju	 
+ San Isidro 
+20	Lu\Mi\Ju	19a21	Crotta Diego Eduardo 	R	 	 
+ Obs. Mat. 276/20: Clases adicionales los días miércoles. 
+ Virtual 
+98	Ma	07a09	 	V	Ma	 
+Cát:Prof Titular Interino TARULLO EDUARDO ANGEL 
+ Avellaneda 
+21	Lu\Ju	07a09	Abazyan Maria Rosa 	R	 	 
+22	Lu\Ju	19a21	Abazyan Maria Rosa 	R	 	 
+ Cordoba 
+23	Lu\Ju	07a09	Rapeport Martin Gustavo 	R	 	 
+24	Lu\Ju	11a13	Bloise Alejandro Francisco 	R	 	 
+25	Lu\Ju	13a15	Gonzalez Agostino Silvina Laura 	R	 	 
+26	Ma\Vi	17a19	Bernaschina Usaj Maximiliano 	R	Ma	 
+27	Lu\Ju	19a21	Pagano Diego Gaston 	R	Ju	 
+ San Isidro 
+28	Ma\Vi	09a11	Orue Pablo Ezequiel 	R	Vi	 
+ Virtual 
+97	Ju	21a23	 	V	Ju	 
+ METODOS PREDICTIVOS PARA LA GESTION (465) 
+Cát:Prof   DEPARTAMENTO DE MATEMATICA 
+ Avellaneda 
+1	Lu\Ju	11a13	Cantoni Rabolini Nelida Monica 	R	 	 
+ Cordoba 
+2	Lu\Ju	07a09	Merino Melanie Edith 	R	Lu	 
+3	Ma\Vi	07a09	Guaita Juan Ignacio 	R	Vi	 
+4	Lu\Ju	09a11	Fernandez Magan Cesar Augusto 	R	Lu	 
+5	Lu\Ju	15a17	Grosso Grazioli Alejandro Damian 	R	Lu	 
+6	Ma\Vi	15a17	Cantoni Rabolini Nelida Monica 	R	Ma	 
+7	Ma\Vi	17a19	Cantoni Rabolini Nelida Monica 	R	Ma	 
+8	Lu\Ju	19a21	Gogni Valeria 	R	 	 
+9	Ma\Vi	19a21	Guidolin Natalia -Velardez Walter Fabian 	R	Vi	 
+10	Ma\Vi	19a21	Barchuk Adriana Aide 	R	Ma	 
+11	Lu\Ju	21a23	Fortuna Orlando Daniel 	R	 	 
+ Pilar 
+12	Lu\Ju	15a17	Ramirez Daneri Maria Silvana 	R	Ju	 
+ ANALISIS ESTADISTICO (540) 
+Cát:Prof Titular Regular BIANCO MARIA JOSE 
+ Avellaneda 
+1	Lu\Mi\Ju	09a11	Larra Matias 	R	Mi	 
+2	Lu\Mi\Ju	13a15	Larra Matias 	R	Mi	 
+ Cordoba 
+3	Ma\Mi\Vi	09a11	Salaberry Natalia Romina 	R	Mi	 
+4	Ma\Mi\Vi	11a13	Salaberry Natalia Romina 	R	Mi	 
+ Paternal 
+5	Ma\Mi\Vi	09a11	Serebrisky Juan Sebastian 	R	Ma	 
+ Virtual 
+99	Sa	11a13	 	V	Sa	 
+Cát:Prof Titular Interino CAVIEZEL PABLO NICOLAS 
+ Cordoba 
+6	Lu\Mi\Ju	07a09	Trajtenberg Luis Alberto 	R	 	 
+7	Ma\Vi\Sa	07a09	Trajtenberg Luis Alberto 	R	Sa	 
+8	Lu\Mi\Ju	15a17	Cordoba Miguel Angel 	R	Mi	 
+9	Lu\Mi\Ju	19a21	Lopez Carlos Daniel 	R	Mi	 
+ Paternal 
+10	Lu\Mi\Ju	15a17	Milia Daniel Alberto 	R	Mi	 
+ San Isidro 
+11	Lu\Ju\Sa	07a09  Sa09a11	Caviezel Pablo Nicolas 	R	Sa	 
+ Virtual 
+98	Vi	09a11	 	V	Vi	 
+ MATEMATICA APLICADA I (542) 
+Cát:Prof Titular Regular BIANCO MARIA JOSE 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Paniagua Fabian Emanuel 	R	Lu	 
+2	Lu\Mi\Ju	09a11	Morrone Rita Beatriz 	R	Ju	 
+3	Lu\Mi\Ju	15a17	Fernandez Maria Jose 	R	Mi	 
+ Virtual 
+99	Mi	13a15	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. GARCIA FRONTI VERONICA MARIA 
+ Cordoba 
+4	Lu\Mi\Ju	19a21	Sokolowski Tobias 	R	Ju	 
+ Paternal 
+5	Lu\Mi\Ju	09a11	Carbajal Juan Cruz 	R	Mi	 
+6	Lu\Mi\Ju	09a11	Krimker Gabriel 	R	 	 
+7	Ma\Vi\Sa	17a19  Sa09a11	Rigoni Camila Belen 	R	Sa	 
+8	Lu\Mi\Ju	19a21	Cuneo Lucila Mercedes 	R	Ju	 
+Cát:Prof Titular Regular GARCIA ROBERTO ARMANDO 
+ Avellaneda 
+9	Ma\Mi\Vi	07a09	Novo Monica Mabel 	R	Mi	 
+10	Lu\Mi\Ju	09a11	Chavez Christian Omar 	R	 	 
+ Cordoba 
+11	Lu\Mi\Ju	17a19	Garcia Roberto Armando 	R	 	 
+ Pilar 
+12	Lu\Mi\Ju	07a09	Vasquez Christian Facundo 	R	 	 
+ San Isidro 
+13	Lu\Mi\Ju	13a15	Arce Horacio Adrian 	R	Mi	 
+14	Lu\Mi\Ju	19a21	Gonzalez Daniel Alejandro 	R	Ju	 
+Cát:Prof Titular Interino GARCIA VENTURINI ALEJANDRO EZEQUIEL 
+ Cordoba 
+15	Lu\Mi\Ju	11a13	Garcia Venturini Alejandro Ezequiel 	R	Mi	 
+16	Lu\Mi\Ju	19a21	Fajfar Pablo Francisco 	R	Mi	 
+ Paternal 
+17	Lu\Mi\Ju	11a13	Cabral Juan Andres 	R	Lu	 
+18	Lu\Mi\Ju	19a21	Cabral Juan Andres 	R	Ju	 
+ ECONOMETRIA I (543) 
+Cát:Prof Regular Asociado a/C. GONZALEZ MIRTA LIDIA 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Calicchio Nicolas Emilio 	R	Ju	 
+ Virtual 
+99	Lu	19a21	 	V	Lu	 
+Cát:Prof Titular Regular MONTES ROJAS GABRIEL VICTORIO  
+ Cordoba 
+2	Lu\Mi\Ju	09a11	Trombetta Martin 	R	Ju	 
+3	Lu\Mi\Ju	11a13	Montes Rojas Gabriel Victorio  	R	Ju	 
+4	Ma\Vi\Sa	17a19  Sa09a11	Fabris Julio Eduardo 	R	Sa	 
+ MATEMATICA APLICADA II (544) 
+Cát:Prof Titular Regular BIANCO MARIA JOSE 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Tarullo Eduardo Angel 	R	 	 
+2	Ma\Vi\Sa	09a11	Garcia Fronti Veronica Maria 	R	Sa	 
+3	Ma\Vi\Sa	19a21  Sa09a11	Garcia Vega Bautista 	R	Sa	 
+Cát:Prof Titular Regular GARCIA FRONTI JAVIER IGNACIO 
+ Cordoba 
+4	Lu\Mi\Ju	07a09	Morrone Rita Beatriz 	R	Ju	 
+5	Lu\Mi\Ju	15a17	Herrera Pablo Matias 	R	Lu	 
+6	Lu\Mi\Ju	17a19	Herrera Pablo Matias 	R	Lu	 
+Cát:Prof Titular Regular ZORZOLI GUSTAVO FABIAN JUAN 
+ Cordoba 
+7	Lu\Mi\Ju	07a09	Fajfar Pablo Francisco 	R	Mi	 
+8	Lu\Mi\Ju	11a13	Zaia Alejandra Cristina 	R	 	 
+9	Lu\Mi\Ju	15a17	Zorzoli Gustavo Fabian Juan -Penedo Jorge Omar 	R	 	 
+10	Lu\Mi\Ju	19a21	Iutrzenko Martin Ezequiel 	R	Mi	 
+ ECONOMETRIA II (546) 
+Cát:Prof Emérito BRUFMAN JUANA ZULEMA 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Brufman Juana Zulema -Trajtenberg Luis Alberto 	R	 	 
+ Obs. Mat. 546/1: CATEDRA DE HONOR. 
+Cát:Prof Regular Asociado a/C. GONZALEZ MIRTA LIDIA 
+ Cordoba 
+2	Lu\Mi\Ju	09a11	Gonzalez Mirta Lidia 	R	Lu	 
+Cát:Prof Titular Regular MONTES ROJAS GABRIEL VICTORIO  
+ Cordoba 
+3	Lu\Mi\Ju	17a19	Corfield Kevin Ricardo 	R	Mi	 
+4	Ma\Vi\Sa	19a21  Sa09a11	Bertholet Nicolas 	R	Sa	 
+ MATEMATICA FINANCIERA Y ACTUARIAL (601) 
+Cát:Prof Titular Regular SARTO DANIEL ANIBAL 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Sciaccaluga Cristian Hernan 	R	 	 
+2	Lu\Mi\Ju	11a13	Sarto Daniel Anibal 	R	Lu	 
+3	Ma\Vi\Sa	19a21  Sa09a11	Barta Matias Alejandro 	R	Sa	 
+ ANALISIS ESTADISTICO II (602) 
+Cát:Prof   DEPARTAMENTO DE MATEMATICA 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Vietri Silvia 	R	Ju	 
+2	Lu\Mi\Ju	13a15	Lasanta Tito Ignacio 	R	Mi	 
+3	Lu\Mi\Ju	17a19	Cordoba Miguel Angel 	R	Mi	 
+4	Ma\Vi\Sa	19a21  Sa11a13	Lopez Carlos Daniel 	R	Sa	 
+ MODELOS Y PROYECCIONES ACTUARIALES (717) 
+Cát:Prof Interino Asociado a/C. CASTRO CAROLINA CRISTINA 
+ Cordoba 
+1	Lu\Ju	07a09	Castro Carolina Cristina 	R	Lu	 
+ PRACTICA PROFESIONAL DEL ACTUARIO (728) 
+Cát:Prof  GRINBLAT GUSTAVO GABRIEL 
+ Cordoba 
+1	Lu\Ju	07a09	Jasper Nicolas 	R	Ju	 
+2	Lu\Ju	19a21	Grinblat Gustavo Gabriel 	R	Ju	 
+3	Lu\Ju	19a21	Silva Liliana Norma 	R	Ju	 
+ COMPUTACION CIENTIFICA ACTUARIAL (746) 
+Cát:Prof Interino Asociado a/C. DEL ROSSO EZEQUIEL RODRIGO JAVIER 
+ Cordoba 
+1	Lu\Ju	07a09	Bavosa Castelao Guido Alfonso 	R	Lu	 
+2	Ma\Vi	07a09	Del Rosso Ezequiel Rodrigo Javier 	R	Vi	 
+3	Lu\Ju	19a21	Calcagno Sebastian Federico 	R	Lu	 
+ Virtual 
+99	Mi	17a19	 	V	Mi	 
+ ESTADISTICA ACTUARIAL (751) 
+Cát:Prof   CASTRO CAROLINA CRISTINA 
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Castro Carolina Cristina 	R	Lu	 
+ Obs. Mat. 751/1: Clases adicionales los días miércoles. 
+2	Ma\Vi\Sa	09a11	Mutchinick Paula 	R	Sa	 
+ Obs. Mat. 751/2: Clases adicionales los días sábados. 
+Cát:Prof   DEL ROSSO EZEQUIEL RODRIGO JAVIER 
+ Cordoba 
+3	Lu\Mi\Ju	19a21	Cordoba Miguel Angel 	R	Mi	 
+ Obs. Mat. 751/3: Clases adicionales los días miércoles. 
+ Virtual 
+99	Mi	07a09	 	V	Mi	 
+Cát:Prof Consulto LANDRO ALBERTO HECTOR 
+ Cordoba 
+4	Lu\Mi\Ju	07a09	Landro Alberto Hector -Del Rosso Ezequiel Rodrigo Javier 	R	Lu	 
+ Obs. Mat. 751/4: CATEDRA DE HONOR - Clases adicionales los días miércoles. 
+ ANALISIS NUMERICO (752) 
+Cát:Prof Titular Regular GARCIA FRONTI JAVIER IGNACIO 
+ Cordoba 
+1	Ma\Vi\Sa	09a11	Caviezel Pablo Nicolas 	R	 	 
+ Obs. Mat. 752/1: Clases adicionales los días sábados. 
+2	Lu\Mi\Ju	19a21	Bianucci Lucio 	R	 	 
+ Obs. Mat. 752/2: Clases adicionales los días miércoles. 
+3	Ma\Vi	19a21	Hernandez Nuria Melisa 	R	Vi	 
+ Virtual 
+99	Lu	19a21	 	V	Lu	 
+ BIOMETRIA ACTUARIAL (753) 
+Cát:Prof Regular Asociado a/C. CAVIEZEL PABLO NICOLAS 
+ Cordoba 
+1	Ma\Vi\Sa	07a09  Sa09a11	Caviezel Pablo Nicolas 	R	Sa	 
+Cát:Prof Titular Interino SARTO DANIEL ANIBAL 
+ Cordoba 
+2	Lu\Mi\Ju	09a11	Sarto Daniel Anibal 	R	Lu	 
+3	Lu\Mi\Ju\Sa	17a19  Sa11a13	Lacasta Laura 	R	 	 
+ Obs. Mat. 753/3: Clases adicionales los días sábados. 
+4	Lu\Mi\Ju	19a21	Grushka Carlos Oscar 	R	 	 
+ TEOR.ACT.DE L/SEGUROS PERSONALES (754) 
+Cát:Prof Titular Interino MUTCHINICK PAULA 
+ Cordoba 
+1	Ma\Vi\Sa	07a09  Sa11a13	Russo Marina 	R	Ma	 
+ Obs. Mat. 754/1: Clases adicionales los días sábados. 
+2	Lu\Ju\Sa	09a11  Sa11a13	Gonzalez Agostino Silvina Laura 	R	 	 
+ Obs. Mat. 754/2: Clases adicionales los días sábados. 
+3	Lu\Mi\Ju	17a19	Mutchinick Paula 	R	 	 
+ Obs. Mat. 754/3: Clases adicionales los días miércoles. 
+4	Ma\Vi\Sa	19a21  Sa11a13	Artuso Carolina Gabriela 	R	 	 
+ Obs. Mat. 754/4: Clases adicionales los días sábados. 
+ Virtual 
+99	Ju	09a11	 	V	Ju	 
+ TEOR.ACT.DE L/SEGUROS PATRIMONIALES (755) 
+Cát:Prof Regular Asociado a/C. GRINBLAT GUSTAVO GABRIEL 
+ Cordoba 
+1	Ma\Vi\Sa	07a09	Sciaccaluga Cristian Hernan 	R	Sa	 
+ Obs. Mat. 755/1: Clases adicionales los días sábados. 
+2	Ma\Vi\Sa	19a21  Sa11a13	De Biase Rodrigo 	R	Sa	 
+ Obs. Mat. 755/2: Clases adicionales los días sábados. 
+ TEO.ACT.D/L/FOND.Y PLAN.DE JUB.PEN.Y SAL (756) 
+Cát:Prof Regular Asociado a/C. PEREZ RAFFO HERNAN RODOLFO 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Perez Raffo Hernan Rodolfo 	R	 	 
+2	Ma\Vi\Sa	07a09  Sa09a11	Gomez Roberto Victor 	R	Sa	 
+3	Ma\Vi\Sa	17a19  Sa09a11	Belliard Matias Julian 	R	Sa	 
+ TEORIA DEL EQUILIBRIO ACTUARIAL (757) 
+Cát:Prof Titular Regular MELINSKY EDUARDO 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Melinsky Eduardo -Ucha Alonso Adriana Isabel 	R	 	 
+ Obs. Mat. 757/1: Clases adicionales los días miércoles. 
+Cát:Prof  SCIACCALUGA CRISTIAN HERNAN 
+ Cordoba 
+2	Lu\Mi\Ju	17a19	Sciaccaluga Cristian Hernan 	R	Ju	 
+ Obs. Mat. 757/2: Clases adicionales los días miercoles. 
+ Virtual 
+99	Mi	17a19	 	V	Mi	 
+ B.ACT.DE L/INVER. Y FINANCIACIONES (758) Se recomienda tener aprobada la materia 279
+Cát:Prof Titular Interino BACCHINI ROBERTO DARIO 
+ Cordoba 
+1	Ma\Vi	07a09	Serenelli Gustavo Fabian 	R	 	 
+ Virtual 
+99	Mi	07a09	 	V	Mi	 
+Cát:Prof Regular Asociado a/C. TARULLO EDUARDO ANGEL 
+ Cordoba 
+2	Lu\Ju	07a09	Kremenchusky Ariel Ivan 	R	 	 
+3	Ma\Vi	19a21	Battocchio Matias Ezequiel 	R	 	 
+ SISTEMAS 
+ FUND. DE SISTEMAS DE INFORM. DIGITALES (82) 
+Cát:Prof  GAMBETTA ALEJANDRO DAVID 
+ Virtual 
+99	Ju	17a19	 	V	Ju	 
+ TECNOLOGIA DE LA INFORMACION (275) 
+Cát:Prof  BARRIOS SANDRA ALICIA 
+ Cordoba 
+1	Lu\Mi\Ju	11a13	Ruiz Jorge Ernesto 	R	Mi	 
+ Virtual 
+99	Ma	07a09	 	V	Ma	 
+Cát:Prof Titular Interino ROSENTHAL ARIANA MIRIAM 
+ Cordoba 
+2	Lu\Mi\Ju	09a11	Cardacci Dario Guillermo 	R	Mi	 
+3	Lu\Mi\Ju	13a15	Poznansky Alejandro Daniel 	R	Mi	 
+ Paternal 
+4	Lu\Mi\Ju	07a09	Abalde Roberto 	R	Lu	 
+5	Lu\Mi\Ju	19a21	Eppel Ary Javier 	R	Mi	 
+ Pilar 
+6	Lu\Mi\Ju	19a21	Rosenthal Ariana Miriam 	R	Mi	 
+ San Isidro 
+7	Lu\Mi\Ju	19a21	Parra Claudio Alberto 	R	Mi	 
+Cát:Prof Titular Regular TRICOCI GUILLERMO ALBERTO 
+ Cordoba 
+8	Lu\Mi\Ju	07a09	Martinez Luis Jorge 	R	Lu	 
+9	Lu\Mi\Ju	17a19	Gonzalez Bosque Marcelo Fernando 	R	Mi	 
+10	Lu\Mi\Ju	19a21	Corral Pablo Alejandro 	R	Lu	 
+ Virtual 
+98	Ma	07a09	 	V	Ma	 
+ GESTION DE TECNOLOGIAS DIGITALES (463) 
+Cát:Prof  MARTINEZ FABIAN ALBERTO 
+ Cordoba 
+1	Lu\Ju	13a15	 	R	Lu	 
+ Paternal 
+2	Ma\Vi	09a11	Fama Fabian 	R	Ma	 
+3	Lu\Ju	17a19	Martinez Fabian Alberto 	R	Ju	ia
+4	Lu\Ju	19a21	Iglesias Facundo 	R	Ju	 
+ Virtual 
+99	Vi	09a11	 	V	Vi	 
+Cát:Prof Interino Asociado a/C. REGUEIRO PEREZ MARIA ALEJANDRA 
+ Avellaneda 
+5	Lu\Ju	09a11	Straccia Luciano Nicolas 	R	Lu	 
+6	Ma\Vi	09a11	Barrios Sandra Alicia 	R	Vi	 
+7	Lu\Ju	17a19	Telias Adrian Gabriel 	R	Lu	 
+ Paternal 
+8	Ma\Vi	21a23	Mazza Fraquelli Anibal Mario 	R	Vi	 
+ San Isidro 
+9	Ma\Vi	11a13	Mazza Fraquelli Anibal Mario 	R	Vi	 
+10	Ma\Vi	15a17	Mazza Fraquelli Anibal Mario 	R	Vi	 
+ Virtual 
+98	Mi	07a09	 	V	Mi	 
+97	Mi	19a21	 	V	 	 
+ TECNOLOGIA DE COMUNICACIONES (655) 
+Cát:Prof Titular Interino CROTTI PATRICIA SUSANA 
+ Cordoba 
+1	Lu\Ju	19a21	Crotti Patricia Susana 	R	Ju	 
+2	Ma\Vi	19a21	Cavalli Olga Del Carmen 	R	Ma	 
+ METODOLOGI.D/LOS SIST.D/INFORMAC. (658) 
+Cát:Prof   DEPARTAMENTO DE SISTEMAS 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Carralbal Diego Hernan 	R	Lu	 
+2	Lu\Mi\Ju	19a21	Sanchez Capalbo Gabriel Ilidio 	R	Lu	 
+ Virtual 
+99	Lu	09a11	 	V	Lu	 
+ SEGURIDAD INFORM. Y PRINCIP. DE AUDIT. (662) 
+Cát:Prof  GIL PABLO MARIANO 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Barclay Santiago Manuel 	R	Lu	 
+2	Ma\Vi\Sa	19a21  Sa11a13	Gil Pablo Mariano 	R	Sa	 
+ SISTEMAS DE DATOS (663) 
+Cát:Prof  CHINKES ERNESTO 
+ Cordoba 
+1	Ma\Mi\Vi	07a09	Goldman Ernesto 	R	Mi	 
+2	Ma\Mi\Vi	09a11	Abalde Roberto 	R	Vi	 
+3	Lu\Mi\Ju	19a21	Chinkes Ernesto -Schneider Gustavo Hernan 	R	Mi	ia
+ ANALITICA DE DATOS (701) 
+Cát:Prof  CHINKES ERNESTO 
+ Cordoba 
+1	Lu\Ju	07a09	Sperling Federico 	R	Lu	 
+ AUDITORIA DE SISTEMAS DE INFORMACIÓN (702) 
+Cát:Prof  DIRECTOR DE CARRERA 
+ Cordoba 
+1	Lu\Ju	19a21	Juarez Maria Silvia 	R	Ju	 
+ REDES INFORMATICAS (740) 
+Cát:Prof Titular Regular CHAINA VIRGINIA EDUARDA 
+ Cordoba 
+1	Ma\Vi	07a09	Roa Patricio Guillermo 	R	Vi	ia
+2	Lu\Ju	19a21	Villa Juan Pablo 	R	Ju	 
+ INTR. A LA TECNOL. DE LA INF. Y COMUNIC. (1275) 
+Cát:Prof Interino Asociado a/C. ORIOLO MARIA CECILIA 
+ Avellaneda 
+1	Lu\Ju	19a21	Grin German Kurt 	R	 	ia
+ Cordoba 
+2	Ma\Vi	13a15	Oriolo Maria Cecilia 	R	Vi	 
+ Paternal 
+3	Ma\Vi	07a09	Abalde Roberto 	R	Ma	 
+4	Lu\Ju	19a21	Oriolo Maria Cecilia 	R	Lu	 
+ San Isidro 
+5	Ma\Vi	13a15	Dondero Enrique Oscar 	R	Vi	 
+ Virtual 
+99	Ju	17a19	 	V	Ju	 
+ INGENIERIA DE SOFTWARE (1601) 
+Cát:Prof Titular Regular BRIANO CESAR ARIEL 
+ Cordoba 
+1	Ma\Vi	07a09	Briano Cesar Ariel 	R	 	 
+2	Lu\Ju	19a21	Crivaro Ricardo Eduardo 	R	 	 
+3	Ma\Vi	19a21	Veriansky Victor Gustavo 	R	 	 
+ TEORIA DE LOS LENGUAJES Y ALGORITMOS (1652) 
+Cát:Prof Regular Asociado a/C. VERIANSKY VICTOR GUSTAVO 
+ Cordoba 
+1	Lu\Ju	07a09	Blanco Marcelo Esteban 	R	Lu	 
+2	Mi\Sa	19a21  Sa09a11	Coturel Daniel Federico 	R	Mi	 
+3	Lu\Ju	21a23	Arevalo Pla Juan Jose 	R	Ju	 
+ TECNOL. DE LOS COMPUTAD. Y SIST. OPER. (1653) 
+Cát:Prof Interino Asociado a/C. DEPARTAMENTO DE SISTEMAS 
+ Cordoba 
+1	Lu\Mi\Ju	07a09	Musso Rodriguez Guillermo Andres 	R	Lu	 
+2	Lu\Mi\Ju	19a21	Giuggio Javier Fernando 	R	Lu	 
+ Virtual 
+99	Lu	19a21	 	V	Lu	 
+ CONSTRUCC. DE APLIC.INFORMATICAS (1654) 
+Cát:Prof   MENDEZ CEREZUELA ALEJANDRO LUIS 
+ Cordoba 
+1	Lu\Ju	19a21	Mendez Cerezuela Alejandro Luis 	R	Ju	 
+2	Ma\Vi	21a23	Zavala Rodolfo Deolindo 	R	Vi	 
+ ACT. PROF. DEL LIC. EN SIST. DE INF. ORG (1660) 
+Cát:Prof Interino Asociado a/C. PIORUN JUAN DANIEL 
+ Cordoba 
+1	Ma\Vi	19a21	Michalla Barbara 	R	Vi	 
+2	Ma\Vi	19a21	Duarte Ivan Ezequiel 	R	Vi	ia
+3	Lu\Ju	21a23	Campos Luis Alejandro 	R	Ju	ia
+ GESTION DE RECURSOS INFORMATICOS (1799) 
+Cát:Prof Titular Interino MAZZA NESTOR HUGO 
+ Cordoba 
+1	Lu\Ju	19a21	Yudowsky Carla Andrea 	R	Lu	 
+ San Isidro 
+2	Lu\Ju	07a09	Draque Gaston Patricio 	R	 	 
+ Virtual 
+99	Ma	09a11	 	V	Ma	 
+ TRIBUTACION 
+ TEORIA Y TECNICA IMPOSITIVA I (356) 
+Cát:Prof Titular Regular ARIAS JORGE BERNARDO  
+ Cordoba 
+1	Lu\Mi\Ju	09a11	Arias Jorge Bernardo -Basile Franco 	R	Lu	 
+2	Ma\Mi\Vi	09a11	Martinez Cataldi Maria De Las Mercedes 	R	Vi	 
+3	Lu\Mi\Ju	13a15	Lamagrande Alfredo Alejandro 	R	 	 
+4	Ma\Vi\Sa	17a19  Sa09a11	D Agostino Hernan Miguel 	R	Sa	 
+5	Ma\Vi\Sa	19a21  Sa13a15	Jauregui Maria De Los Angeles 	R	Sa	 
+6	Lu\Mi\Ju	21a23	Grabina Angel Gustavo 	R	Mi	 
+Cát:Prof  DEPARTAMENTO DE TRIBUTACION 
+ Cordoba 
+7	Lu\Mi\Ju	09a11	Rigoni Gabriela 	R	Mi	 
+8	Lu\Mi\Ju	09a11	Cerchiara Claudia Marcela 	R	Lu	 
+9	Lu\Mi\Ju	17a19	Rajmilovich Dario Marcelo 	R	Mi	 
+10	Lu\Mi\Ju	17a19	Liberman Sebastian Javier 	R	Mi	 
+11	Lu\Mi\Ju	19a21	Ataria Paula Andrea 	R	 	 
+12	Ma\Vi\Sa	19a21  Sa09a11	Mourin Eduardo Alfredo 	R	Sa	 
+13	Lu\Mi\Ju	21a23	Dasso Daniel 	R	Ju	 
+Cát:Prof Titular Regular DIEZ GUSTAVO EDUARDO 
+ Avellaneda 
+14	Lu\Mi\Ju	19a21	Futten Juan Pablo 	R	Ju	 
+ Cordoba 
+15	Lu\Mi\Ju	09a11	Lopez Chiesa Fernando 	R	Lu	 
+16	Lu\Mi\Ju	17a19	Lange Patricia 	R	Ju	 
+17	Lu\Mi\Ju	19a21	Lamagrande Hernan Matias 	R	Mi	 
+ Paternal 
+18	Lu\Mi\Ju	17a19	Inza Maria Luisa F 	R	Ju	 
+ San Isidro 
+19	Ma\Vi\Sa	07a09  Sa09a11	Gonzalez Atchabahian Pablo Luis 	R	Sa	 
+20	Lu\Mi\Ju	19a21	Sclavo Leandro Ariel 	R	Mi	 
+ TEORIA Y TECNICA IMPOSITIVA II (357) 
+Cát:Prof Titular Regular CALELLO ANDREA CAROLINA 
+ Avellaneda 
+1	Lu\Mi\Ju	07a09	Piano Adriana Estela 	R	Lu	ia
+ Cordoba 
+2	Lu\Mi\Ju	07a09	Vegas Ricardo Rafael 	R	Lu	ia
+3	Lu\Mi\Ju	09a11	Becherman Sonia Lilian 	R	Lu	 
+4	Lu\Mi\Ju	13a15	Gonzalez Gustavo 	R	Lu	 
+5	Ma\Mi\Vi\Sa	17a19  Sa09a11	Crivella Alejandro Antonio 	R	Vi	 
+ Obs. Mat. 357/5: Clases adicionales los días sábados. 
+6	Lu\Mi\Ju	19a21	Maggiolo Aldo Ruben 	R	Lu	 
+7	Ma\Vi\Sa	19a21  Sa09a11	Januszewski Ana Karina 	R	Sa	 
+8	Lu\Mi\Ju	21a23	Mastandrea Alberto Fabian 	R	Lu	 
+Cát:Prof Titular Regular DIEZ HUMBERTO PEDRO 
+ Cordoba 
+9	Lu\Mi\Ju	07a09	Adaminas Alberto 	R	Lu	 
+10	Lu\Mi\Ju	07a09	Dominguez Sebastian Miguel 	R	Lu	 
+11	Lu\Mi\Ju	19a21	Casal Alejandro 	R	Ju	 
+12	Lu\Mi\Ju	19a21	Schneir Alejandra 	R	Ju	 
+13	Lu\Mi\Ju	19a21	Loureiro Santiago Gabriel 	R	 	 
+ Pilar 
+14	Lu\Ju	08a11	Schneir Alejandra 	R	Lu	 
+Cát:Prof Titular Regular MELZI FLAVIA IRENE 
+ Cordoba 
+15	Ma\Mi\Vi\Sa	09a11	Bianchi Jose Antonio 	R	Mi	 
+ Obs. Mat. 357/15: Clases adicionales los días Miércoles. 
+16	Lu\Mi\Ju	17a19	Zappellaz Miguel Angel 	R	Lu	 
+ Paternal 
+17	Lu\Mi\Ju	09a11	Iglesias Araujo Fabiana 	R	Lu	 
+ San Isidro 
+18	Lu\Mi\Ju	09a11	Fiszer Alejandro Daniel 	R	Lu	 
+19	Lu\Mi\Ju	19a21	Mendola Jose 	R	Ju	 
+ ADMINISTRACION TRIBUTARIA (468) 
+Cát:Prof Titular Regular PARERA MARINA INES 
+ Cordoba 
+1	Ma\Vi	09a11	Lopez Chiesa Fernando 	R	Vi	 
+2	Lu\Ju	17a19	Vazquez Marisa Nelia 	R	 	 
+3	Ma\Vi	17a19	Jauregui Maria De Los Angeles 	R	 	ia
+4	Lu\Ju	19a21	Gazzola Laura Graciela 	R	 	ia
+5	Ma\Vi	21a23	Parrondo Alfredo Javier 	R	 	 
+ San Isidro 
+6	Lu\Ju	19a21	Cosenza Leonardo Javier 	R	 	 
+Cát:Prof Titular Regular VOLMAN ALBERTO MARIO ALEJANDRO 
+ Avellaneda 
+7	Ma\Vi	19a21	Zappellaz Miguel Angel 	R	Vi	 
+ Cordoba 
+8	Lu\Ju	07a09	Piasco Alicia Graciela 	R	Lu	 
+9	Ma\Vi	09a11	Rolando Felix Jose 	R	Vi	 
+10	Lu\Ju	17a19	Lerendegui Fernando Francisco 	R	Ju	 
+11	Lu\Ju	19a21	Feldenblum Adriana Esther 	R	Ju	 
+ Paternal 
+12	Lu\Ju	07a09	Edelsztein Ignacio Enrique 	R	Lu	 
+ Pilar 
+13	Lu\Mi	09a11	Chanuar Jorge Luis 	R	 	 
+ FINANZAS PUBLICAS (768) 
+Cát:Prof   VICCHI JUAN CARLOS 
+ Cordoba 
+1	Ma	17a19	Paparas Ricardo Alejandro 	R	 	 
