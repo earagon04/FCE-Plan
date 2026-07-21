@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FCE-Plan/static/css/main.1d65d571.css",
-    "main.js": "/FCE-Plan/static/js/main.c665c049.js",
+    "main.js": "/FCE-Plan/static/js/main.2a7f362a.js",
     "static/media/source-sans-pro-all-400-normal.woff": "/FCE-Plan/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff",
     "static/media/source-sans-pro-latin-400-normal.woff2": "/FCE-Plan/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2",
     "static/media/source-sans-pro-latin-ext-400-normal.woff2": "/FCE-Plan/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2",
@@ -12,10 +12,10 @@
     "static/media/source-sans-pro-vietnamese-400-normal.woff2": "/FCE-Plan/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2",
     "index.html": "/FCE-Plan/index.html",
     "main.1d65d571.css.map": "/FCE-Plan/static/css/main.1d65d571.css.map",
-    "main.c665c049.js.map": "/FCE-Plan/static/js/main.c665c049.js.map"
+    "main.2a7f362a.js.map": "/FCE-Plan/static/js/main.2a7f362a.js.map"
   },
   "entrypoints": [
     "static/css/main.1d65d571.css",
-    "static/js/main.c665c049.js"
+    "static/js/main.2a7f362a.js"
   ]
 }
