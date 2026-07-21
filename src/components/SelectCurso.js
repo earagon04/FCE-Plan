@@ -96,12 +96,21 @@ const SelectCurso = ({ codigo }) => {
     [items, events],
   );
 
+  const formatClaseDiaHorario = (clase, { short = false } = {}) => {
+    const dayLabel = short
+      ? clase.virtual
+        ? `${INICIALES_SEMANA[clase.dia]}V`
+        : INICIALES_SEMANA[clase.dia]
+      : (() => {
+          const code = DIA_CODES[clase.dia] || "?";
+          return clase.virtual ? `${code} (V)` : code;
+        })();
+    return `${dayLabel} ${clase.inicio}-${clase.fin}`;
+  };
+
   const cursoTooltip = (item) => {
-    const dias = item.clases
-      .map((c) => {
-        const code = DIA_CODES[c.dia] || "?";
-        return c.virtual ? `${code} (V)` : code;
-      })
+    const horarios = item.clases
+      .map((c) => formatClaseDiaHorario(c))
       .join(" · ");
     return (
       <>
@@ -111,7 +120,7 @@ const SelectCurso = ({ codigo }) => {
           {item.sede} · Mod. {item.modalidad}
           {item.ia ? " · IA" : ""}
         </Text>
-        <Text>{dias}</Text>
+        <Text>{horarios}</Text>
         {(item.obs || materia.obs) && <Text>{item.obs || materia.obs}</Text>}
       </>
     );
@@ -246,8 +255,6 @@ const SelectCurso = ({ codigo }) => {
                   borderBottom: "1px dashed violet",
                 }}
                 key={item.codigo}
-                position="relative"
-                pb={5}
               >
                 <li
                   {...getItemProps({
@@ -255,52 +262,52 @@ const SelectCurso = ({ codigo }) => {
                     index,
                   })}
                 >
-                  {isActive && <CheckIcon mr={1} />}
-                  {isItemBlocked && <WarningTwoIcon mr={1} />}
-                  <Text as="span" fontWeight="medium">
-                    #{item.nro || item.codigo.split("-")[1]}{" "}
-                    {item.docentes || "(sin docente)"}
-                  </Text>
-                  {item.catedra && (
-                    <Text fontSize="x-small" opacity={0.85} noOfLines={1}>
-                      {item.catedra}
+                  <Flex justify="space-between" align="flex-start" gap={2}>
+                    <Box flex={1} minW={0}>
+                      {isActive && <CheckIcon mr={1} />}
+                      {isItemBlocked && <WarningTwoIcon mr={1} />}
+                      <Text as="span" fontWeight="medium">
+                        #{item.nro || item.codigo.split("-")[1]}{" "}
+                        {item.docentes || "(sin docente)"}
+                      </Text>
+                      {item.catedra && (
+                        <Text fontSize="x-small" opacity={0.85} noOfLines={1}>
+                          {item.catedra}
+                        </Text>
+                      )}
+                      <Wrap spacing={1} mt={1}>
+                        <WrapItem>
+                          <Badge fontSize="x-small">{item.sede}</Badge>
+                        </WrapItem>
+                        <WrapItem>
+                          <Badge fontSize="x-small">
+                            Mod. {item.modalidad}
+                          </Badge>
+                        </WrapItem>
+                        {item.ia && (
+                          <WrapItem>
+                            <Badge fontSize="x-small" colorScheme="purple">
+                              IA
+                            </Badge>
+                          </WrapItem>
+                        )}
+                      </Wrap>
+                    </Box>
+                    <Text
+                      fontSize="x-small"
+                      textAlign="right"
+                      whiteSpace="pre-line"
+                      lineHeight="short"
+                      flexShrink={0}
+                      opacity={0.9}
+                    >
+                      {item.clases
+                        .map((clase) =>
+                          formatClaseDiaHorario(clase, { short: true }),
+                        )
+                        .join("\n")}
                     </Text>
-                  )}
-                  <Wrap
-                    spacing={1}
-                    mt={1}
-                    position="absolute"
-                    bottom="2px"
-                    left="8px"
-                    right="8px"
-                  >
-                    <WrapItem>
-                      <Badge fontSize="x-small">{item.sede}</Badge>
-                    </WrapItem>
-                    <WrapItem>
-                      <Badge fontSize="x-small">Mod. {item.modalidad}</Badge>
-                    </WrapItem>
-                    {item.ia && (
-                      <WrapItem>
-                        <Badge fontSize="x-small" colorScheme="purple">
-                          IA
-                        </Badge>
-                      </WrapItem>
-                    )}
-                    <WrapItem>
-                      <Badge fontSize="x-small">
-                        {[
-                          ...new Set(
-                            item.clases.map((clase) =>
-                              clase.virtual
-                                ? `${INICIALES_SEMANA[clase.dia]}V`
-                                : INICIALES_SEMANA[clase.dia],
-                            ),
-                          ),
-                        ].join(" | ")}
-                      </Badge>
-                    </WrapItem>
-                  </Wrap>
+                  </Flex>
                 </li>
               </Box>
             </Tooltip>
